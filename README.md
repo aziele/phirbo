@@ -13,10 +13,27 @@ Since Phirbo is just a single script, no installation is required. You can simpl
 
 ```bash
 git clone https://github.com/aziele/phirbo.git
+phirbo/phirbo.py --help
+```
+
+If you plan on using it often, you can copy it to someplace in your PATH variable for easier access:
+
+```bash
+cp phirbo/phirbo.py ~/.local/bin
 phirbo.py --help
 ```
 
-## Usage
+## Method
+Phirbo links phage to host sequences through intermediate, common reference sequences that are potentially homologous to both phage and host sequences. 
+
+In order to link phage (*P*) to host (*H*) sequence through intermediate sequences, phage and host sequences need to be used as queries in two separate sequence similarity searches (e.g., BLAST) against the same reference database of prokaryotic genomes (*D*). One BLAST search is performed for phage (*P*) query and the other for (*H*) host query. The two lists of BLAST results, *P → D* and *H → D*, contain prokaryotic genomes ordered by decreasing score. To avoid a taxonomic bias due to multiple genomes of the same prokaryote species (e.g., *Escherichia coli*), prokaryotic species can be ranked according to their first appearance in the BLAST list (Fig. 1c). In this way, both ranked lists represent phage and host profiles consisting of the ranks of top-score prokaryotic species. 
+
+Phirbo estimates the phage-host relationship by comparing the overlap between phage and host ranked lists using Rank-Biased Overlap (RBO) metric.
+
+<p align="center"><img src="images/figure.png" alt="Phirbo overview" width="70%"></p>
+
+
+## Quick usage
 
 Provide two input directories containing ranked lists and an output file name.
 
@@ -24,9 +41,9 @@ Provide two input directories containing ranked lists and an output file name.
 phirbo.py example/virus/ example/host/ example/output.txt
 ```
 
-### Full usage
+## Full usage
 
-```bash
+```
 usage: phirbo.py [-h] [--p P] [--k K] [--t NUM_THREADS]
                  virus_dir host_dir output_file
 
