@@ -36,7 +36,7 @@ Phirbo estimates the phage-host relationship by comparing the content and order 
 
 
 ## Input data
-You need to provide ranked lists - separately in two directories - for phage and baterial genomes. Every genome should have its own ranked list in a separate text file. See [file format](example/virus/NC_000866.txt)) - each individual item per line (if two or more items are the same in rank they should be comma-separated in one line).
+You need to provide ranked lists - separately in two directories - for phage and baterial genomes. Every genome should have its own ranked list in a separate text file. See [file format](example/virus/NC_000866.txt) - each individual item per line (if two or more items are the same in rank they should be comma-separated in one line).
 
 
 ## Quick usage
@@ -47,7 +47,7 @@ To run Phirbo provide two input directories (for phages and bacteria) containing
 phirbo.py example/virus/ example/host/ example/output.txt
 ```
 
-This will output a file `output.txt` containing phage-host predictions (a top score host for each phage). In addition, a file `output.txt.matrix` will contain a matrix of scores between all-versus-all phages and bateria (phages in rows, bacteria in columns).
+This will output a file `output.txt` containing phage-host predictions (i.e., a top score host for each phage). Also a file `output.txt.matrix` will be created containing a matrix of scores between all-versus-all phages and bateria (phages in rows, bacteria in columns).
 
 ## Full usage
 
