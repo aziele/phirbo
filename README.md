@@ -30,7 +30,7 @@ In order to link phage (*P*) to host (*H*) sequence through intermediate sequenc
 
 Phirbo estimates the phage-host relationship by comparing the overlap between phage and host ranked lists using Rank-Biased Overlap (RBO) metric.
 
-<p align="center"><img src="images/figure.png" alt="Phirbo overview" width="70%"></p>
+<img src="images/figure.png" alt="Phirbo overview">
 
 
 ## Quick usage
