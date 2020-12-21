@@ -1,6 +1,6 @@
 # Phirbo
 
-A tool to predict prokaryotic hosts for phage (meta)genomic sequences. To predict phage-host interactions Phirbo uses information on sequence similarity between phage and bacteria as well as bacteria relatedness.
+A tool to predict prokaryotic hosts for phage (meta)genomic sequences. To predict phage-host interactions Phirbo uses information on sequence similarity between phages and bacteria as well as among bacteria.
 
 
 ## Requirements
@@ -28,15 +28,15 @@ phirbo.py --help
 ## Method
 Phirbo links phage to host sequences through intermediate, common reference sequences that are potentially homologous to both phage and host sequences. 
 
-In order to link phage (*P*) to host (*H*) sequence through intermediate sequences, phage and host sequences need to be used as queries in two separate sequence similarity searches (e.g., BLAST) against the same reference database of prokaryotic genomes (*D*). One BLAST search is performed for phage (*P*) query and the other for (*H*) host query. The two lists of BLAST results, *P → D* and *H → D*, contain prokaryotic genomes ordered by decreasing score. To avoid a taxonomic bias due to multiple genomes of the same prokaryote species (e.g., *Escherichia coli*), prokaryotic species can be ranked according to their first appearance in the BLAST list. In this way, both ranked lists represent phage and host profiles consisting of the ranks of top-score prokaryotic species. 
+In order to link phage (*P*) to host (*H*) sequence through intermediate sequences, phage and host sequences need to be used as queries in two separate sequence similarity searches (e.g., BLAST) against the same reference database of prokaryotic genomes (*D*). One BLAST search is performed for phage query (*P*) and the other for host query (*H*). The two lists of BLAST results, *P → D* and *H → D*, contain prokaryotic genomes ordered by decreasing score. To avoid a taxonomic bias due to multiple genomes of the same prokaryote species (e.g., *Escherichia coli*), prokaryotic species can be ranked according to their first appearance in the BLAST list. In this way, both ranked lists represent phage and host profiles consisting of the ranks of top-score prokaryotic species. 
 
 Phirbo estimates the phage-host relationship by comparing the content and order between phage and host ranked lists using [Rank-Biased Overlap (RBO)](http://dx.doi.org/10.1145/1852102.1852106) measure. Briefly, RBO fosters comparison of ranked lists of different lengths with heavier weights for matching the higher-ranking items. RBO ranges between `0` and `1`, where `0` means that the lists are disjoint (have no items in common) and `1` means that the lists are identical in content and order.
 
-<img src="images/figure.png" alt="Phirbo overview">
+<img src="images/figure.png" alt="Phirbo overview" width="80%">
 
 
 ## Input data
-You need to provide ranked lists - separately in two directories - for phage and baterial genomes. Every genome should have its own ranked list in a separate text file. See [file format](example/virus/NC_000866.txt) - each individual item per line (if two or more items are the same in rank they should be comma-separated in one line).
+You need to provide ranked lists - separately in two directories - for phage and baterial genomes. Every genome should have its own ranked list in a text file. The text format lists baterial species separated by a new line (if two or more species are the same in rank they should be comma-separated in one line) (see [file format](example/virus/NC_000866.txt)).
 
 
 ## Quick usage
@@ -47,7 +47,7 @@ To run Phirbo provide two input directories (for phages and bacteria) containing
 phirbo.py example/virus/ example/host/ example/output.txt
 ```
 
-This will output a file `output.txt` containing phage-host predictions (i.e., a top score host for each phage). Also a file `output.txt.matrix` will be created containing a matrix of scores between all-versus-all phages and bateria (phages in rows, bacteria in columns).
+This will output a file `output.txt` containing phage-host predictions (i.e., a top score host for each phage). Also, a file `output.txt.matrix` will be created containing a matrix of scores between all-versus-all phage-bacterium pairs (phages in rows, bacteria in columns).
 
 ## Full usage
 
