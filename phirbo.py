@@ -19,8 +19,9 @@ def get_arguments():
     p.add_argument('out', metavar='output_file', type=argparse.FileType('w'),
                     help='Output file name')
     p.add_argument('--p', dest='p', type=float, default=0.75, metavar=None,
-                    help='RBO weighting parameter in range (0, 1). High p implies '
-                    'strong emphasis on top ranked items [default = %(default)s]')
+                    help='RBO parameter in range (0, 1) determines the degree of '
+                    'top-weightedness of RBO measure. High p implies strong '
+                    'emphasis on top ranked items [default = %(default)s]')
     p.add_argument('--k', dest='k', type=int,
                     default=30, help='Truncate all ranked lists to the first `k` '
                     'rankings to calculate RBO. To disable the truncation use '
@@ -117,7 +118,8 @@ def rbo(l1: List[Set[Union[str, int]]],
 
 def weight(d: int, p: float) -> float:
     """
-    Weight of ranks from 1 to `d` used in RBO score calculation.
+    Weight of ranks from 1 to `d` used in RBO score calculation. Parameter p
+    determines the degree of top-weightedness of the RBO metric.
 
     The weight of the prefix of length `d` is the sum of the weights of the
     ranks to that depth. The weight specifies the contibution of these ranks
@@ -126,7 +128,7 @@ def weight(d: int, p: float) -> float:
     >>> weight(10, 0.9)
     0.86
     
-    It means that for p = 0.9 first 10 ranks have 86% of the weight
+    It means that for p = 0.9, first 10 ranks have 86% of the weight
     (contribuion) in the RBO score.
 
     REFERENCE:
