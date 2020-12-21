@@ -1,0 +1,50 @@
+Staphylococcus aureus
+Staphylococcus warneri
+Staphylococcus haemolyticus
+Staphylococcus carnosus
+Staphylococcus pseudintermedius
+Bacillus thuringiensis
+Staphylococcus lugdunensis
+Peptoclostridium difficile
+Clostridium botulinum
+Geobacillus kaustophilus
+Bacillus anthracis
+Bacillus cereus
+Clostridium ljungdahlii
+Enterococcus faecalis
+Clostridium tetani
+Lactobacillus salivarius,Lactococcus lactis
+Enterococcus hirae
+Thermoanaerobacter sp. X513,Thermoanaerobacter sp. X514
+Candidatus Arthromitus sp. SFB-mouse,Clostridium cellulovorans
+Clostridium acetobutylicum
+Bacillus amyloliquefaciens
+[Clostridium] cellulolyticum
+Clostridium pasteurianum
+Amphibacillus xylanus,Streptococcus parauberis
+Desulfotomaculum ruminis
+Streptococcus gallolyticus
+Alkaliphilus metalliredigens,Streptococcus pyogenes
+Sebaldella termitidis
+Listeria monocytogenes
+Staphylococcus epidermidis
+[Bacillus] selenitireducens
+Staphylococcus pasteuri,Streptococcus equi
+Candidatus Arthromitus sp. SFB-rat-Yit,Macrococcus caseolyticus,Sphaerochaeta pleomorpha
+Streptococcus suis
+Clostridium saccharobutylicum
+Streptococcus agalactiae,Streptococcus dysgalactiae
+Carnobacterium maltaromaticum
+Clostridium kluyveri
+Streptococcus constellatus
+Clostridium sp. BNL1100,Paenibacillus larvae,Streptococcus anginosus,Tepidanaerobacter acetatoxydans
+Bacillus licheniformis
+Enterococcus faecium,Streptococcus macedonicus
+Campylobacter lari
+Lactobacillus delbrueckii,Lactococcus garvieae
+Gardnerella vaginalis,Mahella australiensis,Streptococcus salivarius
+Pasteurella multocida,Wolbachia endosymbiont of Drosophila simulans,Wolbachia sp. wRi
+Borrelia miyamotoi,Clostridium saccharoperbutylacetonicum,Escherichia coli,Flavobacterium columnare,Francisella noatunensis,Lactobacillus reuteri,Saprospira grandis,Spiroplasma diminutum,Streptococcus uberis,Wolbachia endosymbiont of Drosophila melanogaster
+Bacillus cytotoxicus,Blattabacterium sp. (Blaberus giganteus),Campylobacter fetus,Candidatus Midichloria mitochondrii,Clostridium perfringens,Flavobacterium indicum,Fluviicola taffensis,Fusobacterium nucleatum,Lactobacillus amylovorus,Lactobacillus plantarum,Leuconostoc kimchii,Leuconostoc sp. C2,Mycoplasma hyopneumoniae,Nonlabens dokdonensis,Thermoanaerobacterium thermosaccharolyticum,Wolbachia endosymbiont of Onchocerca ochengi
+Arcobacter butzleri,Bacillus sp. 1NLA3E,Bacillus toyonensis,Borrelia afzelii,Brachyspira hyodysenteriae,Brachyspira intermedia,Brachyspira pilosicoli,Campylobacter coli,Candidatus Liberibacter solanacearum,Flavobacterium johnsoniae,Flexibacter litoralis,Helicobacter pylori,Lachnoclostridium phytofermentans,Lactobacillus sanfranciscensis,Leptotrichia buccalis,Mycoplasma capricolum,Mycoplasma mycoides,Persephonella marina,Rahnella aquatilis,Shewanella piezotolerans,Shewanella sp. ANA-3,Streptococcus pneumoniae,Vibrio furnissii,Wolbachia endosymbiont of Culex quinquefasciatus
+Arcobacter nitrofigilis,Arcobacter sp. L,Bacillus cellulosilyticus,Bacteroides vulgatus,Borrelia crocidurae,Borrelia recurrentis,Brachyspira murdochii,Caldicellulosiruptor obsidiansis,Caldicellulosiruptor owensensis,Candidatus Atelocyanobacterium thalassa,Candidatus Phytoplasma australiense,Chroococcidiopsis thermalis,Clostridium autoethanogenum,Clostridium beijerinckii,Croceibacter atlanticus,Cyanothece sp. PCC 7424,Dictyoglomus turgidum,Enterobacter sp. 638,Escherichia fergusonii,Lactobacillus acidophilus,Listeria welshimeri,Maribacter sp. HTCC2170,Mycoplasma bovis,Mycoplasma hominis,Mycoplasma suis,Pediococcus pentosaceus,Pedobacter saltans,Photorhabdus luminescens,Prochlorococcus marinus,Providencia stuartii,Roseburia hominis,Spiroplasma apis,Streptococcus lutetiensis,Thermincola potens,Thermodesulfobacterium geofontis,Thiocystis violascens,Treponema pedis,Wigglesworthia glossinidia,alpha proteobacterium HIMB59,secondary endosymbiont of Heteropsylla cubana

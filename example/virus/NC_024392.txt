@@ -1,0 +1,22 @@
+Listeria monocytogenes
+Listeria innocua
+Bacillus thuringiensis
+Clostridium pasteurianum
+Listeria welshimeri
+Melissococcus plutonius
+Streptococcus pneumoniae
+Streptococcus pseudopneumoniae
+Staphylococcus aureus,Streptococcus infantarius,Streptococcus mitis,Streptococcus oralis
+Enterococcus faecium
+Enterococcus hirae
+Bacillus cytotoxicus
+Exiguobacterium sp. AT1b,Lactobacillus crispatus
+Aerococcus urinae,Bacillus pumilus,Lactobacillus gasseri,Solitalea canadensis
+Exiguobacterium sp. MH3,Streptococcus equi
+Clostridium saccharobutylicum,Enterococcus mundtii,Halanaerobium hydrogeniformans,Peptoclostridium difficile
+Bacillus amyloliquefaciens,Belliella baltica,Candidatus Carsonella ruddii,Enterococcus faecalis,Lactobacillus reuteri,Prochlorococcus marinus
+Bacillus cereus,Candidatus Arthromitus sp. SFB-mouse,Clostridium acetobutylicum,Clostridium novyi,Enterococcus casseliflavus,Flavobacterium columnare,Lactobacillus johnsonii,Streptococcus gallolyticus,Streptococcus macedonicus,Streptococcus parauberis,Streptococcus pasteurianus
+Bacillus infantis,Dehalobacter sp. CF,Exiguobacterium sibiricum,Helicobacter pylori,Lactococcus lactis,Thermoanaerobacter wiegelii
+Bacillus subtilis,Calothrix sp. PCC 7507,Clostridium cellulovorans,Flavobacterium johnsoniae,Lactobacillus acidophilus,Lactobacillus casei,Lactobacillus salivarius,Mycoplasma bovis,Sebaldella termitidis,Sphaerochaeta globosa,Streptococcus agalactiae,Streptococcus pyogenes,Thermobacillus composti,Treponema succinifaciens
+Alteromonas sp. SN2,Anabaena cylindrica,Arthrospira platensis,Bacillus anthracis,Brachyspira hyodysenteriae,Brachyspira murdochii,Candidatus Phytoplasma mali,Cyanobacterium aponinum,Cylindrospermum stagnale,Flexibacter litoralis,Halobacteroides halobius,Hydrogenobaculum sp. HO,Hydrogenobaculum sp. SN,Lactobacillus ruminis,Lactobacillus sanfranciscensis,Rhodospirillum rubrum,Shewanella baltica,Solibacillus silvestris,Staphylococcus carnosus,Streptococcus iniae,Streptococcus parasanguinis,Treponema caldaria
+Arcobacter nitrofigilis,Arcobacter sp. L,Bacillus pseudofirmus,Bacteroides helcogenes,Bacteroides thetaiotaomicron,Buchnera aphidicola,Caldicellulosiruptor saccharolyticus,Calothrix parietina,Campylobacter lari,Cellulosilyticum lentocellum,Clostridium botulinum,Clostridium kluyveri,Clostridium perfringens,Colwellia psychrerythraea,Desulfosporosinus acidiphilus,Desulfotomaculum gibsoniae,Elusimicrobium minutum,Eubacterium rectale,Fusobacterium nucleatum,Halyomorpha halys symbiont,Leptospira interrogans,Lysinibacillus sphaericus,Mycobacterium leprae,Mycoplasma agalactiae,Mycoplasma hyorhinis,Mycoplasma suis,Oceanobacillus iheyensis,Odoribacter splanchnicus,Onion yellows phytoplasma,Paenibacillus sp. Y412MC10,Polaribacter sp. MED152,Pseudoalteromonas atlantica,Selenomonas ruminantium,Serratia symbiotica,Spiroplasma taiwanense,Stanieria cyanosphaera,Staphylococcus pasteuri,Streptobacillus moniliformis,Streptococcus constellatus,Streptococcus gordonii,Streptococcus lutetiensis,Streptococcus sp. I-P16,Sulfurihydrogenibium azorense,Sulfurimonas denitrificans,Tepidanaerobacter acetatoxydans,Teredinibacter turnerae,Vibrio sp. EJY3,Zobellia galactanivorans,[Clostridium] sticklandii,butyrate-producing bacterium SS3/4,butyrate-producing bacterium SSC/2

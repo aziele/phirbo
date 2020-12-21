@@ -1,0 +1,425 @@
+Phenylobacterium zucineum
+Caulobacter vibrioides
+Caulobacter sp. K31
+Brevundimonas subvibrioides
+Caulobacter segnis
+Asticcacaulis excentricus
+Maricaulis maris
+Rhodobacter sphaeroides
+Tistrella mobilis
+Sphingomonas wittichii
+Azospirillum brasilense
+Azospirillum lipoferum
+Acidiphilium cryptum
+Acidiphilium multivorum
+Azorhizobium caulinodans
+Rhodobacter capsulatus
+Paracoccus aminophilus
+Paracoccus denitrificans
+Oligotropha carboxidovorans
+Sphingomonas sp. MM-1
+Parvularcula bermudensis
+Methylobacterium sp. 4-46
+Ruegeria sp. TM1040
+Hyphomicrobium denitrificans
+Methylobacterium radiotolerans
+Methylobacterium extorquens
+Magnetospirillum magneticum
+Ochrobactrum anthropi
+Pseudomonas aeruginosa
+Stenotrophomonas maltophilia
+Parvibaculum lavamentivorans
+Brucella microti
+Brucella canis,Brucella pinnipedialis,Brucella suis
+Brucella ceti
+Brucella melitensis
+Brucella abortus
+Granulibacter bethesdensis
+Acidovorax avenae
+Rhodopseudomonas palustris
+Starkeya novella
+Hyphomonas neptunium
+Myxococcus xanthus
+Pseudomonas denitrificans
+Novosphingobium sp. PP1Y
+Polymorphum gilvum
+Myxococcus fulvus
+Rhodospirillum centenum
+Pseudoxanthomonas suwonensis
+Stigmatella aurantiaca
+Hyphomicrobium sp. MC1
+Bradyrhizobium sp. BTAi1
+Sphingobium japonicum
+Bradyrhizobium oligotrophicum
+Bradyrhizobium sp. ORS 278
+Xanthobacter autotrophicus
+Anaeromyxobacter sp. Fw109-5
+Bradyrhizobium japonicum
+Bradyrhizobium diazoefficiens
+Methylobacterium populi
+Brucella ovis
+Methylobacterium nodulans
+Micavibrio aeruginosavorus
+Rhodanobacter denitrificans
+Nitrobacter hamburgensis
+Variovorax paradoxus
+Acidovorax citrulli
+Bradyrhizobium sp. S23321
+Hyphomicrobium nitrativorans
+Burkholderia sp. KJ006,Burkholderia vietnamiensis,Xanthomonas alfalfae
+Thioalkalivibrio nitratireducens
+Mesorhizobium australicum
+Alicycliphilus denitrificans,Sphingobium sp. SYK-6
+Mesorhizobium opportunistum
+Mesorhizobium loti
+Nitrobacter winogradskyi
+Sphingopyxis alaskensis
+Burkholderia gladioli
+Xanthomonas euvesicatoria
+Methylocella silvestris
+Burkholderia ambifaria
+Mesorhizobium ciceri
+Sinorhizobium meliloti
+Alkalilimnicola ehrlichii
+Chelativorans sp. BNC1
+Sinorhizobium fredii
+Hirschia baltica,Methylocystis sp. SC2
+Candidatus Accumulibacter phosphatis
+Xanthomonas campestris
+Novosphingobium aromaticivorans
+Rhizobium etli
+Burkholderia glumae
+Burkholderia multivorans
+Agrobacterium tumefaciens
+Magnetospirillum gryphiswaldense
+Rhizobium leguminosarum
+Achromobacter xylosoxidans
+Pelagibacterium halotolerans
+Bartonella clarridgeiae,Beijerinckia indica
+Sinorhizobium medicae
+Bartonella grahamii
+Sphingobium chlorophenolicum
+Bartonella australis
+Liberibacter crescens
+Pseudomonas stutzeri,Rhizobium sp. IRBG74
+Rhizobium tropici
+Agrobacterium fabrum,Bartonella quintana
+Agrobacterium sp. H13-3
+Methylibium petroleiphilum
+Bartonella henselae
+Bartonella vinsonii
+Bartonella tribocorum,Komagataeibacter medellinensis
+Agrobacterium vitis
+Gluconobacter oxydans
+Dinoroseobacter shibae,Gluconacetobacter diazotrophicus
+Bartonella bacilliformis
+Pseudovibrio sp. FO-BEG1
+Pseudomonas sp. TKP
+Rhodomicrobium vannielii
+Bordetella petrii,Octadecabacter antarcticus,Roseobacter denitrificans
+Ramlibacter tataouinensis
+Acetobacter pasteurianus
+Pseudomonas brassicacearum
+Candidatus Liberibacter americanus,Candidatus Liberibacter asiaticus
+Thioalkalivibrio sulfidiphilus
+Ruegeria pomeroyi
+Rhodospirillum photometricum
+Candidatus Liberibacter solanacearum
+Pseudomonas fluorescens
+Serratia marcescens
+Leisingera methylohalidivorans
+Burkholderia mallei
+Rhodospirillum rubrum
+Aromatoleum aromaticum
+Burkholderia pseudomallei,Erythrobacter litoralis
+Pandoraea pnomenusa
+Burkholderia thailandensis
+Candidatus Puniceispirillum marinum
+Ketogulonicigenium vulgare
+Cupriavidus pinatubonensis
+Corallococcus coralloides
+Myxococcus stipitatus
+Azoarcus sp. KH32C
+Thiomonas arsenitoxydans
+Serratia plymuthica
+Jannaschia sp. CCS1
+Herbaspirillum seropedicae
+Octadecabacter arcticus
+Rickettsia bellii
+Zymomonas mobilis
+Gloeobacter kilaueensis
+Rickettsia rickettsii
+Rickettsia montanensis,Rickettsia philipii
+Rickettsia massiliae,Rubrivivax gelatinosus
+Rickettsia conorii
+Rickettsia felis,Rickettsia parkeri,Rickettsia slovaca
+Candidatus Rickettsia amblyommii,Rickettsia africae,Rickettsia heilongjiangensis
+Rickettsia rhipicephali
+Rickettsia peacockii
+Candidatus Endolissoclinum faulkneri
+Rickettsia japonica
+Rickettsia australis
+Rickettsia akari
+Cronobacter sakazakii
+Rickettsia typhi
+Rickettsia prowazekii
+Rickettsia canadensis
+Cronobacter turicensis
+alpha proteobacterium HIMB59
+Serratia sp. AS12,Serratia sp. AS13
+Enterobacter lignolyticus
+Candidatus Solibacter usitatus
+Anaeromyxobacter sp. K
+Anaeromyxobacter dehalogenans
+Opitutus terrae
+Candidatus Pelagibacter sp. IMCC9063
+Deinococcus maricopensis
+Phaeobacter gallaeciensis
+Paenibacillus mucilaginosus
+Klebsiella pneumoniae
+Serratia proteamaculans
+Candidatus Pelagibacter ubique
+Citrobacter rodentium
+Candidatus Midichloria mitochondrii
+Anaplasma centrale,Phaeobacter inhibens
+Thauera sp. MZ1T
+Anaplasma marginale
+Klebsiella variicola,Serratia liquefaciens
+alpha proteobacterium HIMB5
+Sorangium cellulosum
+Thiobacillus denitrificans
+Streptomyces albus
+Anaplasma phagocytophilum
+Raoultella ornithinolytica
+Alcanivorax dieselolei
+Halomonas elongata
+Cyanothece sp. PCC 7425
+Haliangium ochraceum
+Streptomyces sp. SirexAA-E
+Streptomyces violaceusniger
+Streptomyces venezuelae
+Streptomyces hygroscopicus
+Enterobacter aerogenes,Frankia sp. EAN1pec
+Leptothrix cholodnii
+Neorickettsia risticii
+Chromohalobacter salexigens,Streptomyces griseus
+Ralstonia pickettii
+Ehrlichia chaffeensis,Pseudoxanthomonas spadix
+Streptomyces fulvissimus
+Neorickettsia sennetsu,Oceanimonas sp. GK1,Streptomyces pratensis
+Cupriavidus necator
+Ehrlichia muris
+Deinococcus peraridilitoris
+Azoarcus sp. BH72
+Streptomyces bingchenggensis
+Wolbachia endosymbiont of Drosophila melanogaster
+Ehrlichia ruminantium
+Streptomyces coelicolor
+Kitasatospora setae,Wolbachia sp. wRi
+Streptomyces scabiei
+Delftia acidovorans,Wolbachia endosymbiont of Drosophila simulans
+Cupriavidus taiwanensis,Streptomyces cattleya
+Azotobacter vinelandii
+Frankia sp. EuI1c
+Pseudomonas mendocina
+Wolbachia endosymbiont of Culex quinquefasciatus
+Thioflavicoccus mobilis
+Amycolatopsis mediterranei
+Streptomyces davawensis
+Delftia sp. Cs1-4,Orientia tsutsugamushi
+Ralstonia solanacearum
+Actinoplanes sp. SE50/110
+Simiduia agarivorans
+Wolbachia endosymbiont of Brugia malayi
+Wolbachia endosymbiont of Onchocerca ochengi
+Acidovorax sp. JS42
+Pseudomonas putida,Thioalkalivibrio sp. K90mix
+Actinosynnema mirum
+Geobacter sp. M18,Xanthomonas fuscans
+Streptomyces collinus
+Streptomyces avermitilis
+Halorhodospira halophila
+Burkholderia cenocepacia
+Xanthomonas citri
+Saccharothrix espanaensis
+Actinoplanes missouriensis,Xanthomonas axonopodis
+Cylindrospermum stagnale,Rhodococcus hoagii
+Geobacter sp. M21
+Geobacter bemidjiensis,Streptomyces sp. PAMC26508,Verrucosispora maris
+Burkholderia cepacia
+Xanthomonas oryzae
+Allochromatium vinosum
+Mycobacterium chubuense
+Micromonospora aurantiaca,Polaromonas sp. JS666
+Micromonospora sp. L5
+Streptosporangium roseum
+Frankia alni
+Acidovorax sp. KKS102
+Chromobacterium violaceum,Roseobacter litoralis
+Pseudomonas monteilii
+Cupriavidus metallidurans
+Acidimicrobium ferrooxidans
+Bordetella bronchiseptica
+Bordetella parapertussis
+Burkholderia rhizoxinica
+Spiribacter sp. UAH-SP71
+Bordetella pertussis
+Azospira oryzae
+Acidovorax ebreus
+Microcoleus sp. PCC 7113
+Nocardia farcinica,Pseudomonas entomophila
+Magnetococcus marinus
+Amycolatopsis orientalis
+Ilumatobacter coccineus
+Xanthomonas albilineans
+Niastella koreensis,Pseudomonas fulva
+Frankia sp. CcI3
+Bordetella avium
+Actinoplanes sp. N902-109,Pseudogulbenkiania sp. NH8B
+Gloeobacter violaceus,Thermomonospora curvata
+Mycobacterium smegmatis
+Comamonas testosteroni
+Nocardiopsis dassonvillei
+Chitinophaga pinensis
+Spiribacter salinus
+Mycobacterium avium
+Rhodococcus erythropolis
+Nocardiopsis alba
+Edwardsiella piscicida,Thermobifida fusca
+Laribacter hongkongensis,Pseudomonas sp. UW4
+Pseudomonas protegens,Pseudomonas sp. VLB120
+Catenulispora acidiphila,Edwardsiella tarda
+Thiocystis violascens
+Aeromonas hydrophila
+Burkholderia lata
+Mycobacterium vanbaalenii,Saccharopolyspora erythraea
+Geobacter sulfurreducens,Rhodococcus jostii
+Geobacter metallireducens
+Thiomonas intermedia
+Mycobacterium sp. KMS,Mycobacterium sp. MCS
+Pseudonocardia dioxanivorans
+Actinoplanes friuliensis
+Pelobacter carbinolicus
+Mycobacterium sp. JLS
+Blastococcus saxobsidens,Geobacter uraniireducens
+Marinobacter adhaerens
+Geobacter daltonii,Thermobispora bispora
+Nakamurella multipartita
+Nitrosococcus halophilus
+Geobacillus sp. WCH70,Mycobacterium gilvum,Pelobacter propionicus,Rhodococcus opacus
+Edwardsiella ictaluri
+Cyanobium gracile
+Geobacillus sp. C56-T3
+Geobacillus thermoleovorans
+Nocardia cyriacigeorgica
+Clostridium botulinum,Geobacillus sp. GHH01
+Anoxybacillus flavithermus
+Geobacillus sp. JF8,Geobacillus sp. Y412MC52,Geobacillus sp. Y412MC61
+Geobacillus kaustophilus,Mycobacterium rhodesiae
+Lysinibacillus sphaericus,Rhodococcus pyridinivorans
+Modestobacter marinus,Nostoc sp. PCC 7107
+Clostridium saccharoperbutylacetonicum
+Coxiella burnetii
+Geodermatophilus obscurus,Nostoc sp. PCC 7120
+Geobacillus thermodenitrificans
+Desulfomonile tiedjei
+Burkholderia sp. CCGE1003,Halobacillus halophilus,Methylococcus capsulatus
+Bacillus licheniformis
+Geobacter lovleyi,Meiothermus ruber
+Bacillus pumilus
+Anabaena variabilis,Exiguobacterium sibiricum,[Clostridium] stercorarium
+Conexibacter woesei
+Clostridium saccharobutylicum,Nitrosococcus oceani
+Listeria monocytogenes
+Nitrosococcus watsonii,Pseudomonas poae,Pseudomonas savastanoi,Pseudomonas syringae
+Bdellovibrio bacteriovorus,Exiguobacterium antarcticum,Exiguobacterium sp. MH3,Heliobacterium modesticaldum
+Bacillus halodurans,Desulfosporosinus orientis,Pseudomonas syringae group genomosp. 3
+Clostridium cellulovorans,Gottschalkia acidurici
+Bacillus clausii,Exiguobacterium sp. AT1b,Solibacillus silvestris
+Paenibacillus terrae
+Bacillus amyloliquefaciens,Bacillus atrophaeus,Ruminiclostridium thermocellum
+Bacillus sp. JS,Bacillus subtilis,Paenibacillus polymyxa
+Acetobacterium woodii,Bacillus coagulans,Bacillus pseudofirmus,Desulfatibacillum alkenivorans
+Calothrix sp. PCC 7507
+Clostridium pasteurianum
+Methylophaga frappieri,Peptoclostridium difficile
+Carnobacterium sp. WN1359,Desulfosporosinus acidiphilus,Listeria ivanovii,Verminephrobacter eiseniae,[Clostridium] clariflavum
+Carnobacterium sp. 17-4,Desulfosporosinus meridiei
+Desulfotomaculum carboxydivorans,Marinobacter hydrocarbonoclasticus
+Clostridium tetani,Listeria seeligeri,Melissococcus plutonius
+Alkaliphilus oremlandii,Bacillus sp. 1NLA3E,Paenibacillus sp. Y412MC10
+Listeria innocua
+[Cellvibrio] gilvus
+Kytococcus sedentarius,Micrococcus luteus
+Lactobacillus crispatus,Listeria welshimeri
+Desulfitobacterium dehalogenans,Enterococcus faecium,Mycobacterium neoaurum,Pelotomaculum thermopropionicum
+Alkaliphilus metalliredigens
+Desulfotomaculum ruminis
+Lactobacillus kefiranofaciens
+Aerococcus urinae,Carnobacterium maltaromaticum,Enterococcus casseliflavus
+Enterococcus faecalis,Enterococcus mundtii,Gordonia polyisoprenivorans,Lactobacillus acidophilus,Natranaerobius thermophilus,Nitratiruptor sp. SB155-2,Oscillatoria acuminata
+Eubacterium limosum
+Lactobacillus amylovorus,Lactobacillus helveticus,Lactobacillus sakei,Meiothermus silvanus
+Arthrospira platensis,Gordonia sp. KTR9,Syntrophobacter fumaroxidans
+Aeromonas salmonicida,Nautilia profundicola
+Ferrimonas balearica
+Nocardia brasiliensis,Saccharomonospora viridis
+Lactobacillus salivarius
+Ruminococcus albus,Stackebrandtia nassauensis,Tsukamurella paurometabola
+Clostridiales genomosp. BVAB3,Frankia symbiont of Datisca glomerata,Nostoc punctiforme
+Lactobacillus delbrueckii
+Clostridium novyi
+Cyanothece sp. PCC 8801,Cyanothece sp. PCC 8802
+Desulfotomaculum reducens
+Synechococcus sp. PCC 7002
+Aeromonas veronii
+Clostridium autoethanogenum,Clostridium ljungdahlii
+Eubacterium rectale,Leptolyngbya sp. PCC 7376
+Clostridium acetobutylicum,Desulfitobacterium hafniense
+Lachnoclostridium phytofermentans
+Lactobacillus ruminis
+Intrasporangium calvum
+Clostridium sp. BNL1100,Ethanoligenens harbinense
+Burkholderia sp. RPE64
+Stanieria cyanosphaera
+Nitratifractor salsuginis
+Acaryochloris marina,Cellulomonas fimi,Lactobacillus johnsonii,Synechococcus elongatus
+Pseudanabaena sp. PCC 7367
+Gordonia bronchialis,Kocuria rhizophila
+Lactobacillus gasseri,Trichodesmium erythraeum
+Clostridium sp. SY8519
+Corynebacterium urealyticum,Thermoanaerobacterium saccharolyticum
+Corynebacterium efficiens,Ruminococcus champanellensis,Synechococcus sp. PCC 7502
+Segniliparus rotundus
+Synechococcus sp. CC9605,[Eubacterium] eligens
+Prochlorococcus marinus,Thermoanaerobacterium thermosaccharolyticum
+Helicobacter hepaticus
+Cyanothece sp. ATCC 51142,Dactylococcopsis salina,Geitlerinema sp. PCC 7407,[Clostridium] cellulolyticum
+Oscillatoria nigro-viridis,Pleurocapsa minor
+Chamaesiphon minutus,Oscillibacter valericigenes,Rivularia sp. PCC 7116
+Cyanobacterium aponinum
+Salinispora arenicola
+Anabaena cylindrica,Salinispora tropica
+Nostoc sp. PCC 7524
+Crinalium epipsammum
+Burkholderia sp. YI23,Roseburia hominis
+Arthrobacter arilaitensis,Mycobacterium abscessus
+butyrate-producing bacterium SSC/2
+Corynebacterium glutamicum,Synechocystis sp. PCC 6803
+Corynebacterium resistens,Synechococcus sp. CC9311,Synechococcus sp. CC9902
+Corynebacterium jeikeium
+Synechococcus sp. WH 8102
+Anaerococcus prevotii,Desulfovibrio desulfuricans,Synechococcus sp. WH 7803
+Corynebacterium terpenotabidum
+Corynebacterium callunae,Corynebacterium kroppenstedtii
+Corynebacterium variabile,Cyanobacterium stanieri
+Leptospira interrogans
+Desulfotomaculum kuznetsovii,Halothece sp. PCC 7418
+Synechococcus sp. RCC307
+Arthrobacter sp. FB24,Brachybacterium faecium,Gloeocapsa sp. PCC 7428,Sanguibacter keddieii
+Thermoanaerobacterium xylanolyticum
+Desulfovibrio vulgaris
+Candidatus Atelocyanobacterium thalassa,Leptospira borgpetersenii
+Microcystis aeruginosa
+Trichormus azollae
+Arthrobacter phenanthrenivorans,Corynebacterium ulcerans,Leifsonia xyli
