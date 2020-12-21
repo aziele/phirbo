@@ -32,7 +32,7 @@ In order to link phage (*P*) to host (*H*) sequence through intermediate sequenc
 
 Phirbo estimates the phage-host relationship by comparing the content and order between phage and host ranked lists using [Rank-Biased Overlap (RBO)](http://dx.doi.org/10.1145/1852102.1852106) measure. Briefly, RBO fosters comparison of ranked lists of different lengths with heavier weights for matching the higher-ranking items. RBO ranges between `0` and `1`, where `0` means that the lists are disjoint (have no items in common) and `1` means that the lists are identical in content and order.
 
-<img src="images/figure.png" alt="Phirbo overview" width="80%">
+<p align="center"><img src="images/figure.png" alt="Phirbo overview" width="80%"></p>
 
 
 ## Input data
