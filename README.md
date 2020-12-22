@@ -91,11 +91,11 @@ The output files can be further analyzed with R, Python or Excel spreadsheet.
 R:
 
 ```R
-csv = read.csv("predictions.csv.matrix.csv", row.names=1);
-n_top_hosts = 3
+csv = read.csv("predictions.matrix.csv", row.names=1);
+top_n_hosts = 3
 
 for (col in colnames(csv)) {
-    print(csv[order(csv[col], decreasing = T)[1:n_top_hosts],][col]);
+    print(csv[order(csv[col], decreasing = T)[1:top_n_hosts],][col]);
 }
 ```
 
@@ -104,10 +104,16 @@ Python:
 ```python
 import pandas as pd
 
-df = pd.read_csv("predictions.csv.matrix.csv", index_col=0)
-n_top_hosts = 3
+df = pd.read_csv("predictions.matrix.csv", index_col=0)
+top_n_hosts = 3
 
 for col in df:
     print(col)
-    print(df.sort_values(col, ascending=False)[:3][n_top_hosts].to_string())
+    print(df.sort_values(col, ascending=False)[:3][top_n_hosts].to_string())
 ```
+
+
+
+## License
+
+[GNU General Public License, version 3](https://www.gnu.org/licenses/gpl-3.0.html)
