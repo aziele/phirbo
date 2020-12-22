@@ -44,10 +44,12 @@ You need to provide ranked lists - separately in two directories - for phage and
 To run Phirbo provide two input directories (for phages and bacteria) containing your ranked lists, and an output file name.
 
 ```bash
-phirbo.py example/virus/ example/host/ example/output.txt
+phirbo.py example/virus/ example/host/ example/predictions.csv
 ```
 
-This will output a file `output.txt` containing phage-host predictions (i.e., a top score host for each phage). Also, a file `output.txt.matrix` will be created containing a matrix of scores between all-versus-all phage-bacterium pairs (phages in rows, bacteria in columns).
+This will output two files:
+* `predictions.csv` containing phage-host predictions (i.e., a top score host for each phage). 
+* `predictions.matrix.csv` containing a matrix of scores between every phage and every host (phages in columns, bacteria in rows).
 
 ## Full usage
 

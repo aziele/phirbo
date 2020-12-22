@@ -6,6 +6,9 @@ import multiprocessing
 from pathlib import Path
 from typing import List, Set, Union, Dict
 
+import numpy as np
+import pandas as pd
+
 __version__ = '1.0'
 
 
@@ -169,17 +172,24 @@ if __name__ == '__main__':
     vnames = sorted(vd)
     hnames = sorted(hd)
 
-    oh = open(f'{args.out.name}.matrix', 'w')
-    oh.write(f',{",".join(hnames)}\n')
-    args.out.write(f'phage,host,rbo_score\n')
-    for vname in vnames:
+    # Calculate RBO scores between every phage and every host.
+    data = np.zeros((len(hnames), len(vnames)))
+    for vi, vname in enumerate(vnames):
         q = [(vd[vname], hd[hname], args.p) for hname in hnames]
         with multiprocessing.Pool(args.num_threads) as pool:
             res = pool.starmap(rbo, q)
-            oh.write(f'{vname},{",".join([str(score) for score in res])}\n')
-            max_score = max(res)
-            top_hosts = [hnames[i] for i, s in enumerate(res) if s == max_score]
-            for host in top_hosts:
-                args.out.write(f'{vname},{host},{max_score}\n')
-    oh.close()
+            for hi, score in enumerate(res):
+                data[hi,vi] = score
+    
+    # Save matrix to file.
+    df = pd.DataFrame(data=data, index=hnames, columns=vnames)
+    df.to_csv(f'{args.out.name}.matrix.csv')
+
+    # For each phage find host with the highest score.
+    args.out.write(f'phage,host,score\n')
+    for vname in vnames:
+        max_score = df[vname].max()
+        host_names = df.loc[df[vname] == max_score].index
+        for hname in host_names:
+            args.out.write(f'{vname},{hname},{max_score}\n')
     args.out.close()
