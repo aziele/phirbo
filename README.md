@@ -95,7 +95,7 @@ csv = read.csv("predictions.csv.matrix.csv", row.names=1);
 n_top_hosts = 3
 
 for (col in colnames(csv)) {
-	print(csv[order(csv[col], decreasing = T)[1:n_top_hosts],][col]);
+    print(csv[order(csv[col], decreasing = T)[1:n_top_hosts],][col]);
 }
 ```
 
@@ -108,6 +108,6 @@ df = pd.read_csv("predictions.csv.matrix.csv", index_col=0)
 n_top_hosts = 3
 
 for col in df:
-	print(col)
-	print(df.sort_values(col, ascending=False)[:3][n_top_hosts].to_string())
+    print(col)
+    print(df.sort_values(col, ascending=False)[:3][n_top_hosts].to_string())
 ```
