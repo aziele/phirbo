@@ -36,7 +36,7 @@ Phirbo estimates the phage-host relationship by comparing the content and order 
 
 
 ## Input data
-You need to provide ranked lists - separately in two directories - for phage and baterial genomes. Every genome should have its own ranked list in a text file. The text format lists baterial species separated by a new line (if two or more species are the same in rank they should be comma-separated in one line) (see [file format](example/virus/NC_000866.txt)).
+You need to provide ranked lists - separately in two directories - for phage and baterial genomes. Every genome should have its own ranked list in a text file. The text format lists baterial species separated by a new line (if two or more species are the same in rank they should be comma-separated in one line) (see the example file format: [example/virus/NC_000866.txt](example/virus/NC_000866.txt)).
 
 
 ## Quick usage
@@ -48,8 +48,8 @@ phirbo.py example/virus/ example/host/ example/predictions.csv
 ```
 
 This will output two files:
-* `predictions.csv` containing phage-host predictions (i.e., a top score host for each phage). 
-* `predictions.matrix.csv` containing a matrix of scores between every phage and every host (phages in columns, bacteria in rows).
+* `predictions.csv` containing phage-host predictions (i.e., a top score host for each phage). See the example output: [example/predictions.csv](example/predictions.csv)
+* `predictions.matrix.csv` containing a matrix of scores between every phage and every host (phages in columns, bacteria in rows). See the example output matrix: [example/predictions.matrix.csv](example/predictions.csv.matrix.csv)
 
 ## Full usage
 
