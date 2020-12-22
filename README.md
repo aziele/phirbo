@@ -43,7 +43,7 @@ Phirbo estimates the phage-host relationship by comparing the content and order 
 
 
 ## Input data
-You need to provide ranked lists - separately in two directories - for phage and baterial genomes. Every genome should have its own ranked list in a text file. The text format lists baterial species separated by a new line (if two or more species are the same in rank they should be comma-separated in one line) (see the example file format: [example/virus/NC_000866.txt](example/virus/NC_000866.txt)).
+You need to provide ranked lists - separately in two directories - for phage and bacteria genomes. Every genome should have its own ranked list in a text file. The text format lists bateria species separated by a new line (if two or more species are the same in rank they should be comma-separated in one line) (see the example file format: [example/virus/NC_000866.txt](example/virus/NC_000866.txt)).
 
 
 ## Quick usage
@@ -80,4 +80,34 @@ optional arguments:
                    calculate RBO. To disable the truncation use --k 0 [default
                    = 30]
   --t NUM_THREADS  Number of threads (CPUs) [default = 32]
+```
+
+## Further analysis
+
+The output files can be further analyzed with R, Python or Excel spreadsheet.
+
+### Top *n* hosts for each phage
+
+R:
+
+```R
+csv = read.csv("predictions.csv.matrix.csv", row.names=1);
+n_top_hosts = 3
+
+for (col in colnames(csv)) {
+	print(csv[order(csv[col], decreasing = T)[1:n_top_hosts],][col]);
+}
+```
+
+Python:
+
+```python
+import pandas as pd
+
+df = pd.read_csv("predictions.csv.matrix.csv", index_col=0)
+n_top_hosts = 3
+
+for col in df:
+	print(col)
+	print(df.sort_values(col, ascending=False)[:3][n_top_hosts].to_string())
 ```
