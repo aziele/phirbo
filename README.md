@@ -5,7 +5,14 @@ A tool to predict prokaryotic hosts for phage (meta)genomic sequences. To predic
 
 ## Requirements
 
-You'll need Python 3.6 or greater to run Phirbo. It is a stand-alone script and has no Python package dependencies (i.e., it only uses the standard library).
+You'll need Python 3.6 or greater to run `phirbo.py`.
+
+#### Python dependencies:
+
+* [numpy](http://www.numpy.org) >= 1.16.4
+   > Use pip to install: `python3 -m pip install numpy`
+* [pandas](https://pandas.pydata.org/) >= 0.22.1. 
+   > Use pip to install: `python3 -m pip install pandas`
 
 
 ## Installation
