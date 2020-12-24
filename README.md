@@ -82,7 +82,7 @@ optional arguments:
   --t NUM_THREADS  Number of threads (CPUs) [default = 32]
 ```
 
-## Further analysis
+## Further analyses
 
 The output files can be further analyzed with R, Python or Excel spreadsheet.
 
@@ -104,15 +104,66 @@ Python:
 ```python
 import pandas as pd
 
-df = pd.read_csv("predictions.matrix.csv", index_col=0)
+df = pd.read_csv("predictions.csv.matrix.csv", index_col=0)
 top_n_hosts = 3
 
-for col in df:
-    print(col)
-    print(df.sort_values(col, ascending=False)[:3][top_n_hosts].to_string())
+print(df.unstack()
+        .groupby(level=0, group_keys=False)
+        .nlargest(top_n_hosts)
+        .reset_index()
+        .to_string(header=None, index=False))
 ```
 
+### Filter phage-host pairs by a score
 
+For example, show phage-host pairs with score ≥ `0.8`.
+
+Python:
+
+```python
+import pandas as pd
+
+df = pd.read_csv("predictions.csv.matrix.csv", index_col=0)
+min_score = 0.8
+
+s = df.unstack()
+print(s[s >= min_score]
+     .reset_index()
+     .sort_values(["level_0", 0], ascending=[True, False])
+     .to_string(header=None, index=False))
+```
+
+### Distribution of scores for a given phage
+
+Python:
+
+```python
+import pandas as pd
+
+phage_id = "NC_000866"
+
+df = pd.read_csv("predictions.csv.matrix.csv", index_col=0)
+scores = df[phage_id]
+hist = scores.hist()                    # Needs matplotlib.
+hist.figure.savefig('figure.pdf')
+
+print(f'Min    : {scores.min()}')
+print(f'Q1     : {scores.quantile(0.25)}')
+print(f'Median : {scores.median()}')
+print(f'Q3     : {scores.quantile(0.75)}')
+print(f'Max    : {scores.max()}')
+```
+
+### Distribution of scores for all phages
+
+```Python
+import pandas as pd
+
+df = pd.read_csv("predictions.csv.matrix.csv", index_col=0)
+scores = df.stack()
+hist = scores.hist(grid=False)
+hist.figure.savefig('figure.pdf')
+```
 
 ## License
 
