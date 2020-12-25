@@ -141,13 +141,14 @@ R:
 phage_id <- "NC_000866";
 
 csv <- read.csv("predictions.csv.matrix.csv", row.names=1);
-hist(csv[[phage_id]], col="mediumblue", xlab="Score")
+scores <- csv[[phage_id]]
+hist(scores)
 
-print(paste('Min    :', min(csv[[phage_id]])))
-print(paste('Q1     :', quantile(csv[[phage_id]], 0.25)))
-print(paste('Median :', median(csv[[phage_id]])))
-print(paste('Q3     :', quantile(csv[[phage_id]], 0.75)))
-print(paste('Max    :', max(csv[[phage_id]])))
+print(paste('Min    :', min(scores)))
+print(paste('Q1     :', quantile(scores, 0.25)))
+print(paste('Median :', median(scores)))
+print(paste('Q3     :', quantile(scores, 0.75)))
+print(paste('Max    :', max(scores)))
 ```
 
 
