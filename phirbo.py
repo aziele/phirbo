@@ -146,7 +146,7 @@ def weight(d: int, p: float) -> float:
     return weight
 
 
-def read_ranked_list(filename: Union[str, Path], k: int = 0) -> List[Set[str]]:
+def read_list(filename: Union[str, Path], k: int = 0) -> List[Set[str]]:
     """Read a ranked list from a file."""
     fh = open(filename)
     lst = [set(l.strip().split(',')) for l in fh]
@@ -154,20 +154,20 @@ def read_ranked_list(filename: Union[str, Path], k: int = 0) -> List[Set[str]]:
     return lst[:k] if k else lst
 
 
-def get_ranked_lists(directory: str, k: int = 0) -> Dict[str, List[Set[str]]]:
+def get_lists(directory: str, k: int = 0) -> Dict[str, List[Set[str]]]:
     """Read all ranked lists from a directory."""
     path = Path(directory)
     d = {}
     for f in path.iterdir(): 
-        d[f.stem] = read_ranked_list(f, k)
+        d[f.stem] = read_list(f, k)
     return d
 
 
 if __name__ == '__main__':
     args = get_arguments()
 
-    vd = get_ranked_lists(args.virus_dir, args.k)
-    hd = get_ranked_lists(args.host_dir, args.k)
+    vd = get_lists(args.virus_dir, args.k)
+    hd = get_lists(args.host_dir, args.k)
 
     vnames = sorted(vd)
     hnames = sorted(hd)

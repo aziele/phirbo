@@ -82,6 +82,29 @@ optional arguments:
   --t NUM_THREADS  Number of threads (CPUs) [default = 32]
 ```
 
+
+## Python module
+
+You can use `phirbo.py` as a Python module.
+
+```python
+import phirbo
+
+phage_list = phirbo.read_list('example/virus/NC_000866.txt')
+host_list = phirbo.read_list('example/host/NC_010473.txt')
+score = phirbo.rbo(phage_list, host_list)
+```
+
+```python
+import phirbo
+
+phage_list = [{'E.coli'}, {'S.boydii'}, {'S.flexneri'}, {'Y.rohdei', 'Y.ruckeri'}]
+host_list = [{'E.coli'}, {'S.flexneri'}, {'S.boydii'}, {'S.dysenteriae'}, {'E.toletana'}]
+score = phirbo.rbo(phage_list, host_list)
+score = phirbo.rbo(phage_list, host_list, p=0.98)
+```
+
+
 ## Further analyses
 
 The output files can be further analyzed with R, Python or Excel spreadsheet.
