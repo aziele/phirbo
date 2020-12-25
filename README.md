@@ -196,6 +196,16 @@ print(f'Max    : {scores.max()}')
 
 ### Distribution of scores for all phages
 
+R:
+
+```r
+csv <- read.csv("predictions.csv.matrix.csv", row.names=1);
+scores <- unlist(csv,use.names = FALSE)
+hist(scores)
+```
+
+Python:
+
 ```Python
 import pandas as pd
 
@@ -204,6 +214,7 @@ scores = df.stack()
 hist = scores.hist(grid=False)
 hist.figure.savefig('figure.pdf')
 ```
+
 
 ## License
 
