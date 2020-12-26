@@ -16,34 +16,33 @@ def get_arguments():
     desc = f'Phirbo (v{__version__}) predicts hosts from phage (meta)genomic data'
     p = argparse.ArgumentParser(description=desc)
     p.add_argument('virus_dir', metavar='virus_dir',
-                    help='Input directory w/ ranked lists for viruses')
+                   help='Input directory w/ ranked lists for viruses')
     p.add_argument('host_dir', metavar='host_dir',
-                    help='Input directory w/ ranked lists for hosts')
+                   help='Input directory w/ ranked lists for hosts')
     p.add_argument('out', metavar='output_file', type=argparse.FileType('w'),
-                    help='Output file name')
+                   help='Output file name')
     p.add_argument('--p', dest='p', type=float, default=0.75, metavar=None,
-                    help='RBO parameter in range (0, 1) determines the degree of '
-                    'top-weightedness of RBO measure. High p implies strong '
-                    'emphasis on top ranked items [default = %(default)s]')
+                   help='RBO parameter in range (0, 1) determines the degree of '
+                   'top-weightedness of RBO measure. High p implies strong '
+                   'emphasis on top ranked items [default = %(default)s]')
     p.add_argument('--k', dest='k', type=int,
-                    default=30, help='Truncate all ranked lists to the first `k` '
-                    'rankings to calculate RBO. To disable the truncation use '
-                    '--k 0 [default =  %(default)s]')
+                   default=30, help='Truncate all ranked lists to the first `k` '
+                   'rankings to calculate RBO. To disable the truncation use '
+                   '--k 0 [default =  %(default)s]')
     p.add_argument('--t', dest='num_threads', type=int,
-                    default=multiprocessing.cpu_count(),
-                    help='Number of threads (CPUs) [default = %(default)s]')
+                   default=multiprocessing.cpu_count(),
+                   help='Number of threads (CPUs) [default = %(default)s]')
     args = p.parse_args()
     return args
 
 
-
-def rbo(l1: List[Set[Union[str, int]]], 
-        l2: List[Set[Union[str, int]]], 
+def rbo(l1: List[Set[Union[str, int]]],
+        l2: List[Set[Union[str, int]]],
         p: float = 0.75) -> float:
     """
     Rank-biased overlap (RBO) of two ranked lists that accounts for ties.
     RBO ranges between 0 and 1, where 0 means that the ranked lists are
-    disjoint (have no items in common) and 1 means that the lists are 
+    disjoint (have no items in common) and 1 means that the lists are
     identical in content and order.
 
     This function implements the extrapolated version of rbo. For details
@@ -58,9 +57,8 @@ def rbo(l1: List[Set[Union[str, int]]],
     >>> lst2 = [{1}, {2, 4}, {5, 6}]
     >>> rbo(lst1, lst2)
     0.8161576704545455
-
     """
-    
+
     # Figure out the short (S) and long (L) list.
     sl, ll = sorted([(len(l1), l1), (len(l2), l2)])
     s, S = sl
@@ -72,11 +70,11 @@ def rbo(l1: List[Set[Union[str, int]]],
         return 0
 
     # Items from short/long list (`ss`/`ls`) till a given depth (ranking).
-    ss = set() 
+    ss = set()
     ls = set()
-    x_d = {0: 0} # Number of shared items between `S` and `L` till a given depth.
-    # Number of items in `S`/`L` till a given depth.
-    len_ss = {0: 0} 
+    x_d = {0: 0}  # No. of shared items between `S` and `L` till a given depth.
+    # No. of items in `S`/`L` till a given depth.
+    len_ss = {0: 0}
     len_ls = {0: 0}
     sum1 = 0
     # Iterate over depths of a longer list.
@@ -85,11 +83,12 @@ def rbo(l1: List[Set[Union[str, int]]],
 
         xset = L[i]
         yset = S[i] if i < s else None
-        
+
         ls.update(xset)
-        if yset != None: ss.update(yset)
-        
-        x_d[d] = x_d[d-1] # Last common overlap.
+        if yset is not None:
+            ss.update(yset)
+
+        x_d[d] = x_d[d-1]   # Last common overlap.
         len_ss[d] = len_ss[d-1]
         len_ls[d] = len_ls[d-1]
 
@@ -98,7 +97,7 @@ def rbo(l1: List[Set[Union[str, int]]],
             x_d[d] += 1 if x in ss else 0
             len_ls[d] += 1
         # If still have a shorter list.
-        if yset != None:
+        if yset is not None:
             for y in yset:
                 # If the new item from `S` is in `L` already.
                 x_d[d] += 0 if y not in ls or y in xset else 1
@@ -130,7 +129,7 @@ def weight(d: int, p: float) -> float:
 
     >>> weight(10, 0.9)
     0.86
-    
+
     It means that for p = 0.9, first 10 ranks have 86% of the weight
     (contribuion) in the RBO score.
 
@@ -138,10 +137,10 @@ def weight(d: int, p: float) -> float:
     http://doi.acm.org/10.1145/1852102.1852106 (Equation 21 in the paper)
 
     """
-    p1 = 1-pow(p,d-1)
+    p1 = 1 - pow(p, d-1)
     p2 = ((1-p)/p)*d
     p3 = math.log(1.0/(1-p))
-    p4 = sum([pow(p,i)/float(i) for i in range(1,d)])
+    p4 = sum([pow(p, i)/i for i in range(1, d)])
     weight = p1 + p2 * (p3-p4)
     return weight
 
@@ -158,7 +157,7 @@ def get_lists(directory: str, k: int = 0) -> Dict[str, List[Set[str]]]:
     """Read all ranked lists from a directory."""
     path = Path(directory)
     d = {}
-    for f in path.iterdir(): 
+    for f in path.iterdir():
         d[f.stem] = read_list(f, k)
     return d
 
@@ -179,8 +178,8 @@ if __name__ == '__main__':
         with multiprocessing.Pool(args.num_threads) as pool:
             res = pool.starmap(rbo, q)
             for hi, score in enumerate(res):
-                data[hi,vi] = score
-    
+                data[hi, vi] = score
+
     # Save matrix to file.
     df = pd.DataFrame(data=data, index=hnames, columns=vnames)
     df.to_csv(f'{args.out.name}.matrix.csv')

@@ -1,6 +1,6 @@
 # Phirbo
 
-A tool to predict prokaryotic hosts for phage (meta)genomic sequences. The tool uses information on sequence similarity between phages and bacteria as well as sequence relatedness among bacteria.
+A tool to predict prokaryotic hosts for phage (meta)genomic sequences. The tool uses information on sequence similarity between phage and bacteria genomes as well as sequence relatedness among bacteria.
 
 
 ## Requirements
@@ -114,11 +114,11 @@ The output files can be further analyzed with R, Python or Excel spreadsheet.
 R:
 
 ```R
-csv <- read.csv("predictions.matrix.csv", row.names=1);
+csv <- read.csv("predictions.matrix.csv", row.names=1)
 top_n_hosts <- 3
 
 for (col in colnames(csv)) {
-    print(csv[order(csv[col], decreasing = T)[1:top_n_hosts],][col]);
+    print(csv[order(csv[col], decreasing = T)[1:top_n_hosts],][col])
 }
 ```
 
@@ -161,9 +161,9 @@ print(s[s >= min_score]
 R:
 
 ```r
-phage_id <- "NC_000866";
+phage_id <- "NC_000866"
 
-csv <- read.csv("predictions.csv.matrix.csv", row.names=1);
+csv <- read.csv("predictions.csv.matrix.csv", row.names=1)
 scores <- csv[[phage_id]]
 hist(scores)
 
@@ -173,7 +173,6 @@ print(paste('Median :', median(scores)))
 print(paste('Q3     :', quantile(scores, 0.75)))
 print(paste('Max    :', max(scores)))
 ```
-
 
 Python:
 
@@ -199,7 +198,7 @@ print(f'Max    : {scores.max()}')
 R:
 
 ```r
-csv <- read.csv("predictions.csv.matrix.csv", row.names=1);
+csv <- read.csv("predictions.csv.matrix.csv", row.names=1)
 scores <- unlist(csv,use.names = FALSE)
 hist(scores)
 ```
