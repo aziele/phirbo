@@ -137,9 +137,24 @@ print(df.unstack()
         .to_string(header=None, index=False))
 ```
 
+
 ### Filter phage-host pairs by a score
 
 For example, show phage-host pairs with score ≥ `0.8`.
+
+R:
+
+```r
+csv <- read.csv("predictions.csv.matrix.csv", row.names=1)
+
+min_score <- 0.5
+
+for(col in 1:ncol(csv)){
+  d <- csv[csv[col] >= min_score,]
+  d <- d[order(d[col]),][col]
+  print(d)
+}
+```
 
 Python:
 
@@ -155,6 +170,7 @@ print(s[s >= min_score]
      .sort_values(["level_0", 0], ascending=[True, False])
      .to_string(header=None, index=False))
 ```
+
 
 ### Distribution of scores for a given phage
 
