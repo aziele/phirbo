@@ -33,7 +33,7 @@ phirbo.py --help
 
 
 ## Method
-Phirbo links phage to host sequences through intermediate, common reference sequences that are potentially homologous to both phage and host sequences. 
+Phirbo links phage to host sequences through other intermediate sequences that are potentially homologous to both phage and host sequences. 
 
 To link phage (*P*) to host (*H*) sequence through intermediate sequences, phage and host sequences need to be used as queries in two separate sequence similarity searches (e.g., BLAST) against the same reference database of prokaryotic genomes (*D*). One BLAST search is performed for phage query (*P*) and the other for host query (*H*). The two lists of BLAST results, *P → D* and *H → D*, contain prokaryotic genomes ordered by decreasing score. To avoid a taxonomic bias due to multiple genomes of the same prokaryote species (e.g., *Escherichia coli*), prokaryotic species can be ranked according to their first appearance in the BLAST list. In this way, both ranked lists represent phage and host profiles consisting of the ranks of top-score prokaryotic species. 
 
@@ -114,11 +114,11 @@ The output files can be further analyzed with R, Python or Excel spreadsheet.
 R:
 
 ```R
-csv <- read.csv("predictions.matrix.csv", row.names=1)
+data <- read.csv("predictions.matrix.csv", row.names=1)
 top_n_hosts <- 3
 
-for (col in colnames(csv)) {
-    print(csv[order(csv[col], decreasing = T)[1:top_n_hosts],][col])
+for (col in colnames(data)) {
+    print(data[order(data[col], decreasing = T)[1:top_n_hosts],][col])
 }
 ```
 
@@ -127,14 +127,14 @@ Python:
 ```python
 import pandas as pd
 
-df = pd.read_csv("predictions.csv.matrix.csv", index_col=0)
+data = pd.read_csv("predictions.csv.matrix.csv", index_col=0)
 top_n_hosts = 3
 
-print(df.unstack()
-        .groupby(level=0, group_keys=False)
-        .nlargest(top_n_hosts)
-        .reset_index()
-        .to_string(header=None, index=False))
+print(data.unstack()
+          .groupby(level=0, group_keys=False)
+          .nlargest(top_n_hosts)
+          .reset_index()
+          .to_string(header=None, index=False))
 ```
 
 
@@ -145,12 +145,11 @@ For example, show phage-host pairs with score ≥ `0.8`.
 R:
 
 ```r
-csv <- read.csv("predictions.csv.matrix.csv", row.names=1)
-
+data <- read.csv("predictions.csv.matrix.csv", row.names=1)
 min_score <- 0.5
 
-for(col in 1:ncol(csv)){
-  d <- csv[csv[col] >= min_score,]
+for(col in 1:ncol(data)){
+  d <- data[data[col] >= min_score,]
   d <- d[order(d[col]),][col]
   print(d)
 }
@@ -161,10 +160,10 @@ Python:
 ```python
 import pandas as pd
 
-df = pd.read_csv("predictions.csv.matrix.csv", index_col=0)
+data = pd.read_csv("predictions.csv.matrix.csv", index_col=0)
 min_score = 0.8
 
-s = df.unstack()
+s = data.unstack()
 print(s[s >= min_score]
      .reset_index()
      .sort_values(["level_0", 0], ascending=[True, False])
@@ -178,9 +177,9 @@ R:
 
 ```r
 phage_id <- "NC_000866"
+data <- read.csv("predictions.csv.matrix.csv", row.names=1)
 
-csv <- read.csv("predictions.csv.matrix.csv", row.names=1)
-scores <- csv[[phage_id]]
+scores <- data[[phage_id]]
 hist(scores)
 
 print(paste('Min    :', min(scores)))
@@ -196,9 +195,9 @@ Python:
 import pandas as pd
 
 phage_id = "NC_000866"
+data = pd.read_csv("predictions.csv.matrix.csv", index_col=0)
 
-df = pd.read_csv("predictions.csv.matrix.csv", index_col=0)
-scores = df[phage_id]
+scores = data[phage_id]
 hist = scores.hist()                    # Needs matplotlib.
 hist.figure.savefig('figure.pdf')
 
@@ -214,8 +213,8 @@ print(f'Max    : {scores.max()}')
 R:
 
 ```r
-csv <- read.csv("predictions.csv.matrix.csv", row.names=1)
-scores <- unlist(csv,use.names = FALSE)
+data <- read.csv("predictions.csv.matrix.csv", row.names=1)
+scores <- unlist(data,use.names = FALSE)
 hist(scores)
 ```
 
@@ -224,8 +223,8 @@ Python:
 ```Python
 import pandas as pd
 
-df = pd.read_csv("predictions.csv.matrix.csv", index_col=0)
-scores = df.stack()
+data = pd.read_csv("predictions.csv.matrix.csv", index_col=0)
+scores = data.stack()
 hist = scores.hist(grid=False)
 hist.figure.savefig('figure.pdf')
 ```
