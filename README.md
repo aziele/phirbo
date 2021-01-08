@@ -96,8 +96,6 @@ score = phirbo.rbo(phage_list, host_list)
 ```
 
 ```python
-import phirbo
-
 phage_list = [{'E.coli'}, {'S.boydii'}, {'S.flexneri'}, {'Y.rohdei', 'Y.ruckeri'}]
 host_list = [{'E.coli'}, {'S.flexneri'}, {'S.boydii'}, {'S.dysenteriae'}, {'E.toletana'}]
 score = phirbo.rbo(phage_list, host_list)

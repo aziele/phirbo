@@ -32,6 +32,9 @@ def get_arguments():
     p.add_argument('--t', dest='num_threads', type=int,
                    default=multiprocessing.cpu_count(),
                    help='Number of threads (CPUs) [default = %(default)s]')
+    p.add_argument('--version', action='version',
+                   version='Phirbo v' + __version__,
+                   help="Show tool's version number and exit")
     args = p.parse_args()
     return args
 
