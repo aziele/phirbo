@@ -31,6 +31,12 @@ cp phirbo/phirbo.py ~/.local/bin
 phirbo.py --help
 ```
 
+Also available from [Bioconda](https://bioconda.github.io/recipes/phirbo/README.html):
+```
+conda create -n phirbo -c conda-forge -c bioconda phirbo
+conda activate phirbo
+phirbo.py --help
+```
 
 ## Method
 Phirbo links phage to host sequences through other intermediate sequences that are potentially homologous to both phage and host sequences. 
