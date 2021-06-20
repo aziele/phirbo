@@ -1,6 +1,10 @@
-## Reference data sets for the analysis of phages and their hosts
+# Reference data sets for the analysis of phages and their hosts
 
-
+| Data set | Virus | Hosts | Reference |
+| :---: | --- | --- | :---: |
+| Edwards *et al*. (2016) | 820 | 2,699 | 1  |
+| Galiez *et al*. (2017)    | 1,420 | 3,780 |  2 |
+| Wang *et al*. (2020)    | 1,462 | 62,493 |  2 |
 
 ### References
 
