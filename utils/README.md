@@ -2,9 +2,7 @@
 
 Python scripts for creating ranked lists for viruses and prokaryotes based on their FASTA sequences and using BLAST.
 
-## Usage
-
-### Input
+## Input
 
 You need two different directories containing only sequence data in FASTA format. One should contain your potential host genomes (one prokaryote per FASTA file), the other should contain viral genomes/contigs (one virus per FASTA file).
 
@@ -39,10 +37,12 @@ example/
     └── NC_000902.fna
 ```
 
+## Usage
+
 To create ranked lists, follow the next five steps. You can simply copy and paste next five commands to the terminal.
 
 
-### Create BLAST database of prokaryotic genomes
+### 1. Create BLAST database of prokaryotic genomes
 
 The following command will create a BLAST database from all host FASTA files in `example/host` directory.
 
@@ -53,7 +53,7 @@ python makeblastdb.py --in example/host/ --out out/db/
 The BLAST database will be created in `out/db/` directory.
 
 
-### BLAST viruses against the database
+### 2. BLAST viruses against the database
 
 The following command will run BLAST on every virus FASTA file in `example/virus` directory.
 
@@ -64,7 +64,7 @@ python blastn.py --task blastn --in example/virus/ --db out/db/ --out out/virus_
 BLAST results will be saved in `out/virus_blast` directory. By default, the script will run BLAST on all CPU threads you have available. However, you can specify the number of threads using `--num_threads`.
 
 
-### BLAST hosts against the database
+### 3. BLAST hosts against the database
 
 The following command will run BLAST on every host FASTA file in `example/host` directory.
 
@@ -75,7 +75,7 @@ python blastn.py --task megablast --in example/host/ --db out/db/ --out out/host
 BLAST results will be saved in `out/host_blast` directory. To speed up the searches you can use `--task dc-megablast` or `--task megablast`.
 
 
-### Create ranked lists from BLAST results
+### 4. Create ranked lists from BLAST results
 
 
 ```bash
