@@ -1,0 +1,2699 @@
+NC_009925,Acaryochloris marina
+NC_013209,Acetobacter pasteurianus
+NC_017100,Acetobacter pasteurianus
+NC_017108,Acetobacter pasteurianus
+NC_017111,Acetobacter pasteurianus
+NC_017121,Acetobacter pasteurianus
+NC_017125,Acetobacter pasteurianus
+NC_017146,Acetobacter pasteurianus
+NC_017150,Acetobacter pasteurianus
+NC_021991,Acetobacter pasteurianus
+NC_016894,Acetobacterium woodii
+NC_014378,Acetohalobium arabaticum
+NC_010163,Acholeplasma laidlawii
+NC_014640,Achromobacter xylosoxidans
+NC_021285,Achromobacter xylosoxidans
+NC_023061,Achromobacter xylosoxidans
+NC_013740,Acidaminococcus fermentans
+NC_016077,Acidaminococcus intestini
+NC_013124,Acidimicrobium ferrooxidans
+NC_009484,Acidiphilium cryptum
+NC_015186,Acidiphilium multivorum
+NC_015850,Acidithiobacillus caldus
+NC_015942,Acidithiobacillus ferrivorans
+NC_011761,Acidithiobacillus ferrooxidans
+NC_011206,Acidithiobacillus ferrooxidans
+NC_012483,Acidobacterium capsulatum
+NC_008578,Acidothermus cellulolyticus
+NC_015138,Acidovorax avenae
+NC_008752,Acidovorax citrulli
+NC_011992,Acidovorax ebreus
+NC_008782,Acidovorax sp. JS42
+NC_018708,Acidovorax sp. KKS102
+NC_010400,Acinetobacter baumannii
+NC_010410,Acinetobacter baumannii
+NC_010611,Acinetobacter baumannii
+NC_011586,Acinetobacter baumannii
+NC_011595,Acinetobacter baumannii
+NC_017162,Acinetobacter baumannii
+NC_017387,Acinetobacter baumannii
+NC_020547,Acinetobacter baumannii
+NC_009085,Acinetobacter baumannii
+NC_021726,Acinetobacter baumannii
+NC_021729,Acinetobacter baumannii
+NC_021733,Acinetobacter baumannii
+NC_017847,Acinetobacter baumannii
+NC_017171,Acinetobacter baumannii
+NC_018706,Acinetobacter baumannii
+NC_023028,Acinetobacter baumannii
+NC_016603,Acinetobacter calcoaceticus
+NC_014259,Acinetobacter oleivorans
+NC_005966,Acinetobacter sp. ADP1
+NC_010278,Actinobacillus pleuropneumoniae
+NC_010939,Actinobacillus pleuropneumoniae
+NC_009053,Actinobacillus pleuropneumoniae
+NC_009655,Actinobacillus succinogenes
+NC_018690,Actinobacillus suis
+NC_022657,Actinoplanes friuliensis
+NC_017093,Actinoplanes missouriensis
+NC_021191,Actinoplanes sp. N902-109
+NC_017803,Actinoplanes sp. SE50/110
+NC_013093,Actinosynnema mirum
+NC_022567,Adlercreutzia equolifaciens
+NC_017964,Advenella kashmirensis
+NC_018013,Aequorivita sublithincola
+NC_015278,Aerococcus urinae
+NC_021290,Aeromonas hydrophila
+NC_008570,Aeromonas hydrophila
+NC_009348,Aeromonas salmonicida
+NC_015424,Aeromonas veronii
+NC_016513,Aggregatibacter actinomycetemcomitans
+NC_017846,Aggregatibacter actinomycetemcomitans
+NC_013416,Aggregatibacter actinomycetemcomitans
+NC_012913,Aggregatibacter aphrophilus
+NC_003062,Agrobacterium fabrum
+NC_003063,Agrobacterium fabrum
+NC_015183,Agrobacterium sp. H13-3
+NC_015508,Agrobacterium sp. H13-3
+NC_011985,Agrobacterium tumefaciens
+NC_011983,Agrobacterium tumefaciens
+NC_011988,Agrobacterium vitis
+NC_011989,Agrobacterium vitis
+NC_010655,Akkermansia muciniphila
+NC_008260,Alcanivorax borkumensis
+NC_018691,Alcanivorax dieselolei
+NC_014910,Alicycliphilus denitrificans
+NC_015422,Alicycliphilus denitrificans
+NC_017167,Alicyclobacillus acidocaldarius
+NC_013205,Alicyclobacillus acidocaldarius
+NC_011184,Aliivibrio fischeri
+NC_011186,Aliivibrio fischeri
+NC_006840,Aliivibrio fischeri
+NC_006841,Aliivibrio fischeri
+NC_011312,Aliivibrio salmonicida
+NC_011313,Aliivibrio salmonicida
+NC_018011,Alistipes finegoldii
+NC_008340,Alkalilimnicola ehrlichii
+NC_009633,Alkaliphilus metalliredigens
+NC_009922,Alkaliphilus oremlandii
+NC_013851,Allochromatium vinosum
+NC_018632,Alteromonas macleodii
+NC_018678,Alteromonas macleodii
+NC_018679,Alteromonas macleodii
+NC_018692,Alteromonas macleodii
+NC_019393,Alteromonas macleodii
+NC_021710,Alteromonas macleodii
+NC_021712,Alteromonas macleodii
+NC_021713,Alteromonas macleodii
+NC_021714,Alteromonas macleodii
+NC_021717,Alteromonas macleodii
+NC_021716,Alteromonas macleodii
+NC_023045,Alteromonas macleodii
+NC_011138,Alteromonas macleodii
+NC_015554,Alteromonas sp. SN2
+NC_014011,Aminobacterium colombiense
+NC_013385,Ammonifex degensii
+NC_018704,Amphibacillus xylanus
+NC_018266,Amycolatopsis mediterranei
+NC_017186,Amycolatopsis mediterranei
+NC_022116,Amycolatopsis mediterranei
+NC_014318,Amycolatopsis mediterranei
+NC_021252,Amycolatopsis orientalis
+NC_015564,Amycolicicoccus subflavus
+NC_019771,Anabaena cylindrica
+NC_019427,Anabaena sp. 90
+NC_019439,Anabaena sp. 90
+NC_014000,Anabaena variabilis
+NC_007413,Anabaena variabilis
+NC_018024,Anaerobaculum mobile
+NC_013171,Anaerococcus prevotii
+NC_014960,Anaerolinea thermophila
+NC_007760,Anaeromyxobacter dehalogenans
+NC_011891,Anaeromyxobacter dehalogenans
+NC_009675,Anaeromyxobacter sp. Fw109-5
+NC_011145,Anaeromyxobacter sp. K
+NC_013532,Anaplasma centrale
+NC_012026,Anaplasma marginale
+NC_004842,Anaplasma marginale
+NC_007797,Anaplasma phagocytophilum
+NC_021880,Anaplasma phagocytophilum
+NC_021879,Anaplasma phagocytophilum
+NC_011567,Anoxybacillus flavithermus
+NC_000918,Aquifex aeolicus
+NC_014218,Arcanobacterium haemolyticum
+NC_017187,Arcobacter butzleri
+NC_009850,Arcobacter butzleri
+NC_021878,Arcobacter butzleri
+NC_014166,Arcobacter nitrofigilis
+NC_017192,Arcobacter sp. L
+NC_006513,Aromatoleum aromaticum
+NC_014550,Arthrobacter arilaitensis
+NC_008711,Arthrobacter aurescens
+NC_011886,Arthrobacter chlorophenolicus
+NC_015145,Arthrobacter phenanthrenivorans
+NC_008541,Arthrobacter sp. FB24
+NC_018531,Arthrobacter sp. Rue61a
+NC_016640,Arthrospira platensis
+NC_007716,Aster yellows witches'-broom phytoplasma
+NC_014816,Asticcacaulis excentricus
+NC_014817,Asticcacaulis excentricus
+NC_013203,Atopobium parvulum
+NC_008702,Azoarcus sp. BH72
+NC_020516,Azoarcus sp. KH32C
+NC_009937,Azorhizobium caulinodans
+NC_016616,Azospira oryzae
+NC_016617,Azospirillum brasilense
+NC_013854,Azospirillum lipoferum
+NC_016622,Azospirillum lipoferum
+NC_012560,Azotobacter vinelandii
+NC_021149,Azotobacter vinelandii
+NC_021150,Azotobacter vinelandii
+NC_009725,Bacillus amyloliquefaciens
+NC_017188,Bacillus amyloliquefaciens
+NC_017190,Bacillus amyloliquefaciens
+NC_017191,Bacillus amyloliquefaciens
+NC_017061,Bacillus amyloliquefaciens
+NC_019842,Bacillus amyloliquefaciens
+NC_020272,Bacillus amyloliquefaciens
+NC_020410,Bacillus amyloliquefaciens
+NC_016784,Bacillus amyloliquefaciens
+NC_017912,Bacillus amyloliquefaciens
+NC_014551,Bacillus amyloliquefaciens
+NC_022081,Bacillus amyloliquefaciens
+NC_022530,Bacillus amyloliquefaciens
+NC_022653,Bacillus amyloliquefaciens
+NC_022075,Bacillus amyloliquefaciens
+NC_023073,Bacillus amyloliquefaciens
+NC_012581,Bacillus anthracis
+NC_012659,Bacillus anthracis
+NC_017729,Bacillus anthracis
+NC_003997,Bacillus anthracis
+NC_005945,Bacillus anthracis
+NC_007530,Bacillus anthracis
+NC_014639,Bacillus atrophaeus
+NC_014829,Bacillus cellulosilyticus
+NC_011658,Bacillus cereus
+NC_011725,Bacillus cereus
+NC_011772,Bacillus cereus
+NC_011773,Bacillus cereus
+NC_011969,Bacillus cereus
+NC_012472,Bacillus cereus
+NC_014335,Bacillus cereus
+NC_018491,Bacillus cereus
+NC_016771,Bacillus cereus
+NC_016779,Bacillus cereus
+NC_004722,Bacillus cereus
+NC_003909,Bacillus cereus
+NC_006274,Bacillus cereus
+NC_006582,Bacillus clausii
+NC_016023,Bacillus coagulans
+NC_015634,Bacillus coagulans
+NC_009674,Bacillus cytotoxicus
+NC_002570,Bacillus halodurans
+NC_022524,Bacillus infantis
+NC_006270,Bacillus licheniformis
+NC_021362,Bacillus licheniformis
+NC_006322,Bacillus licheniformis
+NC_014019,Bacillus megaterium
+NC_014103,Bacillus megaterium
+NC_017138,Bacillus megaterium
+NC_013791,Bacillus pseudofirmus
+NC_009848,Bacillus pumilus
+NC_021171,Bacillus sp. 1NLA3E
+NC_017743,Bacillus sp. JS
+NC_017195,Bacillus subtilis
+NC_017196,Bacillus subtilis
+NC_019896,Bacillus subtilis
+NC_020244,Bacillus subtilis
+NC_020832,Bacillus subtilis
+NC_014479,Bacillus subtilis
+NC_014976,Bacillus subtilis
+NC_016047,Bacillus subtilis
+NC_020507,Bacillus subtilis
+NC_018520,Bacillus subtilis
+NC_022898,Bacillus subtilis
+NC_000964,Bacillus subtilis
+NC_008600,Bacillus thuringiensis
+NC_014171,Bacillus thuringiensis
+NC_017200,Bacillus thuringiensis
+NC_017208,Bacillus thuringiensis
+NC_018693,Bacillus thuringiensis
+NC_018877,Bacillus thuringiensis
+NC_018508,Bacillus thuringiensis
+NC_020238,Bacillus thuringiensis
+NC_020376,Bacillus thuringiensis
+NC_018500,Bacillus thuringiensis
+NC_022873,Bacillus thuringiensis
+NC_005957,Bacillus thuringiensis
+NC_022781,Bacillus toyonensis
+NC_010184,Bacillus weihenstephanensis
+NC_016620,Bacteriovorax marinus
+NC_016776,Bacteroides fragilis
+NC_006347,Bacteroides fragilis
+NC_003228,Bacteroides fragilis
+NC_014933,Bacteroides helcogenes
+NC_015164,Bacteroides salanitronis
+NC_004663,Bacteroides thetaiotaomicron
+NC_009614,Bacteroides vulgatus
+NC_020300,Bartonella australis
+NC_008783,Bartonella bacilliformis
+NC_014932,Bartonella clarridgeiae
+NC_012846,Bartonella grahamii
+NC_005956,Bartonella henselae
+NC_018533,Bartonella quintana
+NC_005955,Bartonella quintana
+NC_010161,Bartonella tribocorum
+NC_020301,Bartonella vinsonii
+NC_019567,Bdellovibrio bacteriovorus
+NC_005363,Bdellovibrio bacteriovorus
+NC_020813,Bdellovibrio exovorus
+NC_010581,Beijerinckia indica
+NC_018010,Belliella baltica
+NC_012669,Beutenbergia cavernae
+NC_020515,Bibersteinia trehalosi
+NC_008618,Bifidobacterium adolescentis
+NC_012814,Bifidobacterium animalis
+NC_017214,Bifidobacterium animalis
+NC_017215,Bifidobacterium animalis
+NC_017217,Bifidobacterium animalis
+NC_017866,Bifidobacterium animalis
+NC_017867,Bifidobacterium animalis
+NC_017216,Bifidobacterium animalis
+NC_017834,Bifidobacterium animalis
+NC_011835,Bifidobacterium animalis
+NC_021593,Bifidobacterium animalis
+NC_012815,Bifidobacterium animalis
+NC_022523,Bifidobacterium animalis
+NC_018720,Bifidobacterium asteroides
+NC_017999,Bifidobacterium bifidum
+NC_014616,Bifidobacterium bifidum
+NC_014638,Bifidobacterium bifidum
+NC_020517,Bifidobacterium breve
+NC_017218,Bifidobacterium breve
+NC_013714,Bifidobacterium dentium
+NC_011593,Bifidobacterium longum
+NC_014169,Bifidobacterium longum
+NC_017219,Bifidobacterium longum
+NC_017221,Bifidobacterium longum
+NC_015052,Bifidobacterium longum
+NC_015067,Bifidobacterium longum
+NC_010816,Bifidobacterium longum
+NC_014656,Bifidobacterium longum
+NC_004307,Bifidobacterium longum
+NC_020546,Bifidobacterium thermophilum
+NC_016943,Blastococcus saxobsidens
+NC_016621,Blattabacterium punctulatus
+NC_017924,Blattabacterium sp. (Blaberus giganteus)
+NC_020195,Blattabacterium sp. (Blatta orientalis)
+NC_013454,Blattabacterium sp. (Blattella germanica)
+NC_016146,Blattabacterium sp. (Mastotermes darwiniensis)
+NC_022550,Blattabacterium sp. (Nauphoeta cinerea)
+NC_020510,Blattabacterium sp. (Panesthia angustipennis spadica)
+NZ_AP012548,Blattabacterium sp. (Panesthia angustipennis spadica)
+NC_013418,Blattabacterium sp. (Periplaneta americana)
+NC_010645,Bordetella avium
+NC_019382,Bordetella bronchiseptica
+NC_018829,Bordetella bronchiseptica
+NC_002927,Bordetella bronchiseptica
+NC_018828,Bordetella parapertussis
+NC_002928,Bordetella parapertussis
+NC_017223,Bordetella pertussis
+NC_018518,Bordetella pertussis
+NC_002929,Bordetella pertussis
+NC_010170,Bordetella petrii
+NC_017238,Borrelia afzelii
+NC_018887,Borrelia afzelii
+NC_008277,Borrelia afzelii
+NC_006156,Borrelia bavariensis
+NC_015921,Borrelia bissettii
+NC_011728,Borrelia burgdorferi
+NC_017403,Borrelia burgdorferi
+NC_017418,Borrelia burgdorferi
+NC_022048,Borrelia burgdorferi
+NC_001318,Borrelia burgdorferi
+NC_017808,Borrelia crocidurae
+NC_011229,Borrelia duttonii
+NC_018747,Borrelia garinii
+NC_017717,Borrelia garinii
+NC_010673,Borrelia hermsii
+NC_022079,Borrelia miyamotoi
+NC_011244,Borrelia recurrentis
+NC_008710,Borrelia turicatae
+NC_013172,Brachybacterium faecium
+NC_012225,Brachyspira hyodysenteriae
+NC_017243,Brachyspira intermedia
+NC_014150,Brachyspira murdochii
+NC_014330,Brachyspira pilosicoli
+NC_018607,Brachyspira pilosicoli
+NC_019908,Brachyspira pilosicoli
+NC_018604,Brachyspira pilosicoli
+NC_004463,Bradyrhizobium diazoefficiens
+NC_017249,Bradyrhizobium japonicum
+NC_020453,Bradyrhizobium oligotrophicum
+NC_009485,Bradyrhizobium sp. BTAi1
+NC_009445,Bradyrhizobium sp. ORS 278
+NC_017082,Bradyrhizobium sp. S23321
+NC_012491,Brevibacillus brevis
+NC_014375,Brevundimonas subvibrioides
+NC_016777,Brucella abortus
+NC_016795,Brucella abortus
+NC_006933,Brucella abortus
+NC_006932,Brucella abortus
+NC_010740,Brucella abortus
+NC_010742,Brucella abortus
+NC_007618,Brucella abortus
+NC_007624,Brucella abortus
+NC_016778,Brucella canis
+NC_016796,Brucella canis
+NC_010104,Brucella canis
+NC_010103,Brucella canis
+NC_022905,Brucella ceti
+NC_022906,Brucella ceti
+NC_022907,Brucella ceti
+NC_022908,Brucella ceti
+NC_012442,Brucella melitensis
+NC_012441,Brucella melitensis
+NC_017247,Brucella melitensis
+NC_017244,Brucella melitensis
+NC_017245,Brucella melitensis
+NC_017248,Brucella melitensis
+NC_017283,Brucella melitensis
+NC_003317,Brucella melitensis
+NC_003318,Brucella melitensis
+NC_017246,Brucella melitensis
+NC_013118,Brucella microti
+NC_013119,Brucella microti
+NC_009505,Brucella ovis
+NC_009504,Brucella ovis
+NC_015857,Brucella pinnipedialis
+NC_015858,Brucella pinnipedialis
+NC_010167,Brucella suis
+NC_016775,Brucella suis
+NC_016797,Brucella suis
+NC_017250,Brucella suis
+NC_017251,Brucella suis
+NC_004310,Brucella suis
+NC_004311,Brucella suis
+NC_010169,Brucella suis
+NC_008513,Buchnera aphidicola
+NC_011833,Buchnera aphidicola
+NC_011834,Buchnera aphidicola
+NC_017252,Buchnera aphidicola
+NC_017253,Buchnera aphidicola
+NC_017254,Buchnera aphidicola
+NC_017255,Buchnera aphidicola
+NC_017256,Buchnera aphidicola
+NC_017259,Buchnera aphidicola
+NC_015662,Buchnera aphidicola
+NC_002528,Buchnera aphidicola
+NC_004061,Buchnera aphidicola
+NC_004545,Buchnera aphidicola
+NC_010551,Burkholderia ambifaria
+NC_010552,Burkholderia ambifaria
+NC_010557,Burkholderia ambifaria
+NC_008392,Burkholderia ambifaria
+NC_008390,Burkholderia ambifaria
+NC_008391,Burkholderia ambifaria
+NC_008060,Burkholderia cenocepacia
+NC_008061,Burkholderia cenocepacia
+NC_008062,Burkholderia cenocepacia
+NC_008544,Burkholderia cenocepacia
+NC_008542,Burkholderia cenocepacia
+NC_008543,Burkholderia cenocepacia
+NC_010508,Burkholderia cenocepacia
+NC_010512,Burkholderia cenocepacia
+NC_010515,Burkholderia cenocepacia
+NC_011002,Burkholderia cenocepacia
+NC_011000,Burkholderia cenocepacia
+NC_011001,Burkholderia cenocepacia
+NC_018513,Burkholderia cepacia
+NC_018514,Burkholderia cepacia
+NC_015376,Burkholderia gladioli
+NC_015381,Burkholderia gladioli
+NC_012721,Burkholderia glumae
+NC_012724,Burkholderia glumae
+NC_007509,Burkholderia lata
+NC_007511,Burkholderia lata
+NC_007510,Burkholderia lata
+NC_008784,Burkholderia mallei
+NC_008785,Burkholderia mallei
+NC_008836,Burkholderia mallei
+NC_009079,Burkholderia mallei
+NC_009080,Burkholderia mallei
+NC_006348,Burkholderia mallei
+NC_008835,Burkholderia mallei
+NC_006349,Burkholderia mallei
+NC_010801,Burkholderia multivorans
+NC_010804,Burkholderia multivorans
+NC_010805,Burkholderia multivorans
+NC_010086,Burkholderia multivorans
+NC_010087,Burkholderia multivorans
+NC_010084,Burkholderia multivorans
+NC_018672,Burkholderia phenoliruptrix
+NC_018695,Burkholderia phenoliruptrix
+NC_010623,Burkholderia phymatum
+NC_010622,Burkholderia phymatum
+NC_010676,Burkholderia phytofirmans
+NC_010681,Burkholderia phytofirmans
+NC_009074,Burkholderia pseudomallei
+NC_009075,Burkholderia pseudomallei
+NC_009076,Burkholderia pseudomallei
+NC_009078,Burkholderia pseudomallei
+NC_012695,Burkholderia pseudomallei
+NC_017831,Burkholderia pseudomallei
+NC_017832,Burkholderia pseudomallei
+NC_018527,Burkholderia pseudomallei
+NC_018529,Burkholderia pseudomallei
+NC_022658,Burkholderia pseudomallei
+NC_022659,Burkholderia pseudomallei
+NC_021877,Burkholderia pseudomallei
+NC_021884,Burkholderia pseudomallei
+NC_006351,Burkholderia pseudomallei
+NC_006350,Burkholderia pseudomallei
+NC_007434,Burkholderia pseudomallei
+NC_007435,Burkholderia pseudomallei
+NC_014722,Burkholderia rhizoxinica
+NC_015136,Burkholderia sp. CCGE1001
+NC_015137,Burkholderia sp. CCGE1001
+NC_014117,Burkholderia sp. CCGE1002
+NC_014119,Burkholderia sp. CCGE1002
+NC_014118,Burkholderia sp. CCGE1002
+NC_014539,Burkholderia sp. CCGE1003
+NC_014540,Burkholderia sp. CCGE1003
+NC_017920,Burkholderia sp. KJ006
+NC_017921,Burkholderia sp. KJ006
+NC_017922,Burkholderia sp. KJ006
+NC_021287,Burkholderia sp. RPE64
+NC_021288,Burkholderia sp. RPE64
+NC_021294,Burkholderia sp. RPE64
+NC_016590,Burkholderia sp. YI23
+NC_016625,Burkholderia sp. YI23
+NC_016589,Burkholderia sp. YI23
+NC_021173,Burkholderia thailandensis
+NC_021174,Burkholderia thailandensis
+NC_007650,Burkholderia thailandensis
+NC_007651,Burkholderia thailandensis
+NC_009254,Burkholderia vietnamiensis
+NC_009255,Burkholderia vietnamiensis
+NC_009256,Burkholderia vietnamiensis
+NC_007952,Burkholderia xenovorans
+NC_007953,Burkholderia xenovorans
+NC_007951,Burkholderia xenovorans
+NC_014388,Butyrivibrio proteoclasticus
+NC_014387,Butyrivibrio proteoclasticus
+NC_003869,Caldanaerobacter subterraneus
+NC_012034,Caldicellulosiruptor bescii
+NC_014652,Caldicellulosiruptor hydrothermalis
+NC_014721,Caldicellulosiruptor kristjanssonii
+NC_014720,Caldicellulosiruptor kronotskyensis
+NC_015949,Caldicellulosiruptor lactoaceticus
+NC_014392,Caldicellulosiruptor obsidiansis
+NC_014657,Caldicellulosiruptor owensensis
+NC_009437,Caldicellulosiruptor saccharolyticus
+NC_017079,Caldilinea aerophila
+NC_017096,Caldisericum exile
+NC_014758,Calditerrivibrio nitroreducens
+NC_019751,Calothrix parietina
+NC_019682,Calothrix sp. PCC 7507
+NC_009465,Calyptogena okutanii thioautotrophic gill symbiont
+NC_022132,Campylobacter coli
+NC_022347,Campylobacter coli
+NC_022660,Campylobacter coli
+NC_009802,Campylobacter concisus
+NC_009715,Campylobacter curvus
+NC_008599,Campylobacter fetus
+NC_022759,Campylobacter fetus
+NC_009714,Campylobacter hominis
+NC_008787,Campylobacter jejuni
+NC_009707,Campylobacter jejuni
+NC_009839,Campylobacter jejuni
+NC_017280,Campylobacter jejuni
+NC_017281,Campylobacter jejuni
+NC_017279,Campylobacter jejuni
+NC_014802,Campylobacter jejuni
+NC_018709,Campylobacter jejuni
+NC_018521,Campylobacter jejuni
+NC_021834,Campylobacter jejuni
+NC_022362,Campylobacter jejuni
+NC_002163,Campylobacter jejuni
+NC_003912,Campylobacter jejuni
+NC_012039,Campylobacter lari
+NC_013194,Candidatus Accumulibacter phosphatis
+NC_010830,Candidatus Amoebophilus asiaticus
+NC_015913,Candidatus Arthromitus sp. SFB-mouse
+NC_017294,Candidatus Arthromitus sp. SFB-mouse
+NC_016012,Candidatus Arthromitus sp. SFB-rat-Yit
+NC_013771,Candidatus Atelocyanobacterium thalassa
+NC_011565,Candidatus Azobacteroides pseudotrichonymphae
+NC_023003,Candidatus Babela massiliensis
+NC_007984,Candidatus Baumannia cicadellinicola
+NC_020075,Candidatus Blochmannia chromaiodes
+NC_005061,Candidatus Blochmannia floridanus
+NC_007292,Candidatus Blochmannia pennsylvanicus
+NC_014909,Candidatus Blochmannia vafer
+NC_018416,Candidatus Carsonella ruddii
+NC_021894,Candidatus Carsonella ruddii
+NC_008512,Candidatus Carsonella ruddii
+NC_018414,Candidatus Carsonella ruddii
+NC_018415,Candidatus Carsonella ruddii
+NC_018417,Candidatus Carsonella ruddii
+NC_018418,Candidatus Carsonella ruddii
+NC_016025,Candidatus Chloracidobacterium thermophilum
+NC_016024,Candidatus Chloracidobacterium thermophilum
+NC_010424,Candidatus Desulforudis audaxviator
+NC_019566,Candidatus Endolissoclinum faulkneri
+NC_012751,Candidatus Hamiltonella defensa
+NC_012960,Candidatus Hodgkinia cicadicola
+NC_019815,Candidatus Kinetoplastibacterium crithidii
+NC_020283,Candidatus Kinetoplastibacterium crithidii
+NC_020294,Candidatus Kinetoplastibacterium desouzaii
+NC_020284,Candidatus Kinetoplastibacterium galatii
+NC_020299,Candidatus Kinetoplastibacterium oncopeltii
+NC_008009,Candidatus Koribacter versatilis
+NC_022793,Candidatus Liberibacter americanus
+NC_012985,Candidatus Liberibacter asiaticus
+NC_020549,Candidatus Liberibacter asiaticus
+NC_014774,Candidatus Liberibacter solanacearum
+NC_013260,Candidatus Methylomirabilis oxyfera
+NC_015722,Candidatus Midichloria mitochondrii
+NC_015735,Candidatus Moranella endobia
+NC_021057,Candidatus Moranella endobia
+NC_018219,Candidatus Mycoplasma haemolamae
+NC_021919,Candidatus Nasuia deltocephalinicola
+NC_014355,Candidatus Nitrospira defluvii
+NC_015380,Candidatus Pelagibacter sp. IMCC9063
+NC_007205,Candidatus Pelagibacter ubique
+NC_010544,Candidatus Phytoplasma australiense
+NC_021236,Candidatus Phytoplasma australiense
+NC_011047,Candidatus Phytoplasma mali
+NC_018507,Candidatus Portiera aleyrodidarum
+NC_018618,Candidatus Portiera aleyrodidarum
+NC_018676,Candidatus Portiera aleyrodidarum
+NC_018677,Candidatus Portiera aleyrodidarum
+NC_020831,Candidatus Portiera aleyrodidarum
+NC_021885,Candidatus Profftella armatura
+NC_005861,Candidatus Protochlamydia amoebophila
+NC_014010,Candidatus Puniceispirillum marinum
+NC_017028,Candidatus Rickettsia amblyommii
+NC_014109,Candidatus Riesia pediculicola
+NC_008610,Candidatus Ruthia magnifica
+NC_023004,Candidatus Saccharibacteria bacterium RAAC3_TM7_1
+NC_021219,Candidatus Saccharimonas aalborgensis
+NC_008536,Candidatus Solibacter usitatus
+NC_013123,Candidatus Sulcia muelleri
+NC_014004,Candidatus Sulcia muelleri
+NC_010118,Candidatus Sulcia muelleri
+NC_014499,Candidatus Sulcia muelleri
+NC_021916,Candidatus Sulcia muelleri
+NC_022576,Candidatus Symbiobacter mobilis
+NC_021555,Candidatus Tremblaya phenacola
+NC_015736,Candidatus Tremblaya princeps
+NC_017293,Candidatus Tremblaya princeps
+NC_020135,Candidatus Uzinura diaspidicola
+NC_014497,Candidatus Zinderia insecticola
+NC_015846,Capnocytophaga canimorsus
+NC_013162,Capnocytophaga ochracea
+NC_007503,Carboxydothermus hydrogenoformans
+NC_018605,Cardinium endosymbiont of Encarsia pergandiella
+NC_019425,Carnobacterium maltaromaticum
+NC_015391,Carnobacterium sp. 17-4
+NC_022606,Carnobacterium sp. WN1359
+NC_013131,Catenulispora acidiphila
+NC_014100,Caulobacter segnis
+NC_010338,Caulobacter sp. K31
+NC_002696,Caulobacter vibrioides
+NC_011916,Caulobacter vibrioides
+NC_015514,Cellulomonas fimi
+NC_014151,Cellulomonas flavigena
+NC_014934,Cellulophaga algicola
+NC_015167,Cellulophaga lytica
+NC_015275,Cellulosilyticum lentocellum
+NC_010995,Cellvibrio japonicus
+NC_019697,Chamaesiphon minutus
+NC_008254,Chelativorans sp. BNC1
+NC_013132,Chitinophaga pinensis
+NC_002620,Chlamydia muridarum
+NC_015408,Chlamydia pecorum
+NC_022439,Chlamydia pecorum
+NC_022440,Chlamydia pecorum
+NC_022441,Chlamydia pecorum
+NC_017285,Chlamydia pneumoniae
+NC_000922,Chlamydia pneumoniae
+NC_002491,Chlamydia pneumoniae
+NC_005043,Chlamydia pneumoniae
+NC_002179,Chlamydia pneumoniae
+NC_017292,Chlamydia psittaci
+NC_014796,Chlamydia psittaci
+NC_018625,Chlamydia psittaci
+NC_018626,Chlamydia psittaci
+NC_018627,Chlamydia psittaci
+NC_018619,Chlamydia psittaci
+NC_018620,Chlamydia psittaci
+NC_018621,Chlamydia psittaci
+NC_018622,Chlamydia psittaci
+NC_018623,Chlamydia psittaci
+NC_018624,Chlamydia psittaci
+NC_019391,Chlamydia psittaci
+NC_020248,Chlamydia psittaci
+NC_017287,Chlamydia psittaci
+NC_015470,Chlamydia psittaci
+NC_017291,Chlamydia psittaci
+NC_017289,Chlamydia psittaci
+NC_017290,Chlamydia psittaci
+NC_012686,Chlamydia trachomatis
+NC_012687,Chlamydia trachomatis
+NC_015744,Chlamydia trachomatis
+NC_010280,Chlamydia trachomatis
+NC_016798,Chlamydia trachomatis
+NC_017429,Chlamydia trachomatis
+NC_017430,Chlamydia trachomatis
+NC_017431,Chlamydia trachomatis
+NC_017432,Chlamydia trachomatis
+NC_017434,Chlamydia trachomatis
+NC_017436,Chlamydia trachomatis
+NC_017439,Chlamydia trachomatis
+NC_017440,Chlamydia trachomatis
+NC_017437,Chlamydia trachomatis
+NC_017951,Chlamydia trachomatis
+NC_017952,Chlamydia trachomatis
+NC_017953,Chlamydia trachomatis
+NC_020930,Chlamydia trachomatis
+NC_020937,Chlamydia trachomatis
+NC_020939,Chlamydia trachomatis
+NC_020929,Chlamydia trachomatis
+NC_020931,Chlamydia trachomatis
+NC_020943,Chlamydia trachomatis
+NC_020941,Chlamydia trachomatis
+NC_020965,Chlamydia trachomatis
+NC_020966,Chlamydia trachomatis
+NC_020970,Chlamydia trachomatis
+NC_020971,Chlamydia trachomatis
+NC_020973,Chlamydia trachomatis
+NC_020974,Chlamydia trachomatis
+NC_020944,Chlamydia trachomatis
+NC_020933,Chlamydia trachomatis
+NC_020938,Chlamydia trachomatis
+NC_020945,Chlamydia trachomatis
+NC_020940,Chlamydia trachomatis
+NC_021050,Chlamydia trachomatis
+NC_021052,Chlamydia trachomatis
+NC_021887,Chlamydia trachomatis
+NC_021888,Chlamydia trachomatis
+NC_021889,Chlamydia trachomatis
+NC_021890,Chlamydia trachomatis
+NC_021891,Chlamydia trachomatis
+NC_021892,Chlamydia trachomatis
+NC_021893,Chlamydia trachomatis
+NC_021896,Chlamydia trachomatis
+NC_021897,Chlamydia trachomatis
+NC_021898,Chlamydia trachomatis
+NC_021899,Chlamydia trachomatis
+NC_021895,Chlamydia trachomatis
+NC_017441,Chlamydia trachomatis
+NC_022107,Chlamydia trachomatis
+NC_022117,Chlamydia trachomatis
+NC_022118,Chlamydia trachomatis
+NC_022119,Chlamydia trachomatis
+NC_022121,Chlamydia trachomatis
+NC_020511,Chlamydia trachomatis
+NC_020512,Chlamydia trachomatis
+NC_023060,Chlamydia trachomatis
+NC_000117,Chlamydia trachomatis
+NC_010287,Chlamydia trachomatis
+NC_007429,Chlamydia trachomatis
+NC_004552,Chlamydophila abortus
+NC_003361,Chlamydophila caviae
+NC_007899,Chlamydophila felis
+NC_011027,Chlorobaculum parvum
+NC_002932,Chlorobaculum tepidum
+NC_007514,Chlorobium chlorochromatii
+NC_010803,Chlorobium limicola
+NC_010831,Chlorobium phaeobacteroides
+NC_008639,Chlorobium phaeobacteroides
+NC_009337,Chlorobium phaeovibrioides
+NC_011831,Chloroflexus aggregans
+NC_010175,Chloroflexus aurantiacus
+NC_012032,Chloroflexus sp. Y-400-fl
+NC_011026,Chloroherpeton thalassium
+NC_005085,Chromobacterium violaceum
+NC_007963,Chromohalobacter salexigens
+NC_019695,Chroococcidiopsis thermalis
+NC_021487,Chthonomonas calidirosea
+NC_009792,Citrobacter koseri
+NC_013716,Citrobacter rodentium
+NC_009480,Clavibacter michiganensis
+NC_010407,Clavibacter michiganensis
+NC_020891,Clavibacter michiganensis
+NC_013895,Clostridiales genomosp. BVAB3
+NC_017295,Clostridium acetobutylicum
+NC_015687,Clostridium acetobutylicum
+NC_003030,Clostridium acetobutylicum
+NC_022592,Clostridium autoethanogenum
+NC_009617,Clostridium beijerinckii
+NC_009495,Clostridium botulinum
+NC_009697,Clostridium botulinum
+NC_009699,Clostridium botulinum
+NC_010516,Clostridium botulinum
+NC_010520,Clostridium botulinum
+NC_010674,Clostridium botulinum
+NC_010723,Clostridium botulinum
+NC_012563,Clostridium botulinum
+NC_012658,Clostridium botulinum
+NC_017297,Clostridium botulinum
+NC_015425,Clostridium botulinum
+NC_017299,Clostridium botulinum
+NC_009698,Clostridium botulinum
+NC_014393,Clostridium cellulovorans
+NC_011837,Clostridium kluyveri
+NC_009706,Clostridium kluyveri
+NC_014328,Clostridium ljungdahlii
+NC_008593,Clostridium novyi
+NC_021182,Clostridium pasteurianum
+NC_008261,Clostridium perfringens
+NC_008262,Clostridium perfringens
+NC_003366,Clostridium perfringens
+NC_022571,Clostridium saccharobutylicum
+NC_020291,Clostridium saccharoperbutylacetonicum
+NC_016791,Clostridium sp. BNL1100
+NC_015737,Clostridium sp. SY8519
+NC_022777,Clostridium tetani
+NC_004557,Clostridium tetani
+NC_015856,Collimonas fungivorans
+NC_003910,Colwellia psychrerythraea
+NC_013446,Comamonas testosteroni
+NC_013739,Conexibacter woesei
+NC_011295,Coprothermobacter proteolyticus
+NC_014008,Coraliomargarita akajimensis
+NC_017030,Corallococcus coralloides
+NC_015389,Coriobacterium glomerans
+NC_022198,Corynebacterium argentoratense
+NC_012590,Corynebacterium aurimucosum
+NC_020506,Corynebacterium callunae
+NC_016782,Corynebacterium diphtheriae
+NC_016783,Corynebacterium diphtheriae
+NC_016785,Corynebacterium diphtheriae
+NC_016787,Corynebacterium diphtheriae
+NC_016789,Corynebacterium diphtheriae
+NC_016790,Corynebacterium diphtheriae
+NC_016800,Corynebacterium diphtheriae
+NC_016801,Corynebacterium diphtheriae
+NC_016802,Corynebacterium diphtheriae
+NC_016786,Corynebacterium diphtheriae
+NC_016788,Corynebacterium diphtheriae
+NC_016799,Corynebacterium diphtheriae
+NC_002935,Corynebacterium diphtheriae
+NC_004369,Corynebacterium efficiens
+NC_020519,Corynebacterium glutamicum
+NC_009342,Corynebacterium glutamicum
+NC_022040,Corynebacterium glutamicum
+NC_021351,Corynebacterium glutamicum
+NC_021352,Corynebacterium glutamicum
+NC_003450,Corynebacterium glutamicum
+NC_006958,Corynebacterium glutamicum
+NC_020302,Corynebacterium halotolerans
+NC_007164,Corynebacterium jeikeium
+NC_012704,Corynebacterium kroppenstedtii
+NC_021915,Corynebacterium maris
+NC_016781,Corynebacterium pseudotuberculosis
+NC_017300,Corynebacterium pseudotuberculosis
+NC_017301,Corynebacterium pseudotuberculosis
+NC_017303,Corynebacterium pseudotuberculosis
+NC_017305,Corynebacterium pseudotuberculosis
+NC_017462,Corynebacterium pseudotuberculosis
+NC_017730,Corynebacterium pseudotuberculosis
+NC_017306,Corynebacterium pseudotuberculosis
+NC_017307,Corynebacterium pseudotuberculosis
+NC_017308,Corynebacterium pseudotuberculosis
+NC_017945,Corynebacterium pseudotuberculosis
+NC_014329,Corynebacterium pseudotuberculosis
+NC_016932,Corynebacterium pseudotuberculosis
+NC_017031,Corynebacterium pseudotuberculosis
+NC_018019,Corynebacterium pseudotuberculosis
+NC_015673,Corynebacterium resistens
+NC_021663,Corynebacterium terpenotabidum
+NC_017317,Corynebacterium ulcerans
+NC_015683,Corynebacterium ulcerans
+NC_018101,Corynebacterium ulcerans
+NC_020230,Corynebacterium urealyticum
+NC_010545,Corynebacterium urealyticum
+NC_015859,Corynebacterium variabile
+NC_009727,Coxiella burnetii
+NC_010117,Coxiella burnetii
+NC_011528,Coxiella burnetii
+NC_011527,Coxiella burnetii
+NC_002971,Coxiella burnetii
+NC_019753,Crinalium epipsammum
+NC_014230,Croceibacter atlanticus
+NC_009778,Cronobacter sakazakii
+NC_017933,Cronobacter sakazakii
+NC_020260,Cronobacter sakazakii
+NC_023032,Cronobacter sakazakii
+NC_013282,Cronobacter turicensis
+NC_013170,Cryptobacterium curtum
+NC_007973,Cupriavidus metallidurans
+NC_008313,Cupriavidus necator
+NC_008314,Cupriavidus necator
+NC_015726,Cupriavidus necator
+NC_015723,Cupriavidus necator
+NC_007348,Cupriavidus pinatubonensis
+NC_007347,Cupriavidus pinatubonensis
+NC_010528,Cupriavidus taiwanensis
+NC_010530,Cupriavidus taiwanensis
+NC_019776,Cyanobacterium aponinum
+NC_019778,Cyanobacterium stanieri
+NC_019675,Cyanobium gracile
+NC_010547,Cyanothece sp. ATCC 51142
+NC_010546,Cyanothece sp. ATCC 51142
+NC_011729,Cyanothece sp. PCC 7424
+NC_011884,Cyanothece sp. PCC 7425
+NC_014501,Cyanothece sp. PCC 7822
+NC_011726,Cyanothece sp. PCC 8801
+NC_013161,Cyanothece sp. PCC 8802
+NC_015914,Cyclobacterium marinum
+NC_018697,Cycloclasticus sp. P1
+NC_021917,Cycloclasticus zancles
+NC_019757,Cylindrospermum stagnale
+NC_008255,Cytophaga hutchinsonii
+NC_019780,Dactylococcopsis salina
+NC_007298,Dechloromonas aromatica
+NC_013939,Deferribacter desulfuricans
+NC_018867,Dehalobacter sp. CF
+NC_018866,Dehalobacter sp. DCA
+NC_009455,Dehalococcoides mccartyi
+NC_013552,Dehalococcoides mccartyi
+NC_013890,Dehalococcoides mccartyi
+NC_020386,Dehalococcoides mccartyi
+NC_020387,Dehalococcoides mccartyi
+NC_022964,Dehalococcoides mccartyi
+NC_002936,Dehalococcoides mccartyi
+NC_007356,Dehalococcoides mccartyi
+NC_014314,Dehalogenimonas lykanthroporepellens
+NC_012526,Deinococcus deserti
+NC_008025,Deinococcus geothermalis
+NC_017790,Deinococcus gobiensis
+NC_014958,Deinococcus maricopensis
+NC_019793,Deinococcus peraridilitoris
+NC_015161,Deinococcus proteolyticus
+NC_001263,Deinococcus radiodurans
+NC_001264,Deinococcus radiodurans
+NC_010002,Delftia acidovorans
+NC_015563,Delftia sp. Cs1-4
+NC_013943,Denitrovibrio acetiphilus
+NC_014365,Desulfarculus baarsii
+NC_011768,Desulfatibacillum alkenivorans
+NC_018017,Desulfitobacterium dehalogenans
+NC_019903,Desulfitobacterium dichloroeliminans
+NC_011830,Desulfitobacterium hafniense
+NC_007907,Desulfitobacterium hafniense
+NC_015388,Desulfobacca acetoxidans
+NC_012108,Desulfobacterium autotrophicum
+NC_018645,Desulfobacula toluolica
+NC_014972,Desulfobulbus propionicus
+NC_020304,Desulfocapsa sulfexigens
+NC_009943,Desulfococcus oleovorans
+NC_013223,Desulfohalobium retbaense
+NC_013173,Desulfomicrobium baculatum
+NC_018025,Desulfomonile tiedjei
+NC_018068,Desulfosporosinus acidiphilus
+NC_018515,Desulfosporosinus meridiei
+NC_016584,Desulfosporosinus orientis
+NC_006138,Desulfotalea psychrophila
+NC_013216,Desulfotomaculum acetoxidans
+NC_015565,Desulfotomaculum carboxydivorans
+NC_021184,Desulfotomaculum gibsoniae
+NC_015573,Desulfotomaculum kuznetsovii
+NC_009253,Desulfotomaculum reducens
+NC_015589,Desulfotomaculum ruminis
+NC_014844,Desulfovibrio aespoeensis
+NC_016629,Desulfovibrio africanus
+NC_007519,Desulfovibrio alaskensis
+NC_011883,Desulfovibrio desulfuricans
+NC_016803,Desulfovibrio desulfuricans
+NC_020055,Desulfovibrio hydrothermalis
+NC_022579,Desulfovibrio hydrothermalis
+NC_012796,Desulfovibrio magneticus
+NC_020409,Desulfovibrio piezophilus
+NC_012881,Desulfovibrio salexigens
+NC_008751,Desulfovibrio vulgaris
+NC_011769,Desulfovibrio vulgaris
+NC_017310,Desulfovibrio vulgaris
+NC_002937,Desulfovibrio vulgaris
+NC_014836,Desulfurispirillum indicum
+NC_014216,Desulfurivibrio alkaliphilus
+NC_015185,Desulfurobacterium thermolithotrophum
+NC_009446,Dichelobacter nodosus
+NC_012880,Dickeya dadantii
+NC_013592,Dickeya dadantii
+NC_014500,Dickeya dadantii
+NC_012912,Dickeya zeae
+NC_011297,Dictyoglomus thermophilum
+NC_011661,Dictyoglomus turgidum
+NC_009952,Dinoroseobacter shibae
+NC_015496,Dokdonia sp. 4H-3-7-5
+NC_013037,Dyadobacter fermentans
+NC_019904,Echinicola vietnamensis
+NC_012779,Edwardsiella ictaluri
+NC_020796,Edwardsiella piscicida
+NC_013508,Edwardsiella tarda
+NC_017309,Edwardsiella tarda
+NC_013204,Eggerthella lenta
+NC_015738,Eggerthella sp. YY7918
+NC_007354,Ehrlichia canis
+NC_007799,Ehrlichia chaffeensis
+NC_023063,Ehrlichia muris
+NC_005295,Ehrlichia ruminantium
+NC_006832,Ehrlichia ruminantium
+NC_006831,Ehrlichia ruminantium
+NC_010644,Elusimicrobium minutum
+NC_018748,Emticicia oligotrophica
+NC_015663,Enterobacter aerogenes
+NC_020181,Enterobacter aerogenes
+NC_015968,Enterobacter asburiae
+NC_016514,Enterobacter cloacae
+NC_018079,Enterobacter cloacae
+NC_018405,Enterobacter cloacae
+NC_014121,Enterobacter cloacae
+NC_014618,Enterobacter lignolyticus
+NC_009436,Enterobacter sp. 638
+NC_021500,Enterobacter sp. R4-368
+NC_020063,Enterobacteriaceae bacterium strain FGI 57
+NC_020995,Enterococcus casseliflavus
+NC_017316,Enterococcus faecalis
+NC_017312,Enterococcus faecalis
+NC_018221,Enterococcus faecalis
+NC_019770,Enterococcus faecalis
+NC_004668,Enterococcus faecalis
+NC_017960,Enterococcus faecium
+NC_020207,Enterococcus faecium
+NC_017022,Enterococcus faecium
+NC_021994,Enterococcus faecium
+NC_018081,Enterococcus hirae
+NC_022878,Enterococcus mundtii
+NC_013961,Erwinia amylovora
+NC_013971,Erwinia amylovora
+NC_014306,Erwinia billingiae
+NC_012214,Erwinia pyrifoliae
+NC_017390,Erwinia pyrifoliae
+NC_017445,Erwinia sp. Ejp617
+NC_010694,Erwinia tasmaniensis
+NC_015601,Erysipelothrix rhusiopathiae
+NC_007722,Erythrobacter litoralis
+NC_007946,Escherichia coli
+NC_008563,Escherichia coli
+NC_009801,Escherichia coli
+NC_010468,Escherichia coli
+NC_010498,Escherichia coli
+NC_011993,Escherichia coli
+NC_012947,Escherichia coli
+NC_017625,Escherichia coli
+NC_017632,Escherichia coli
+NC_017641,Escherichia coli
+NC_017644,Escherichia coli
+NC_017646,Escherichia coli
+NC_016902,Escherichia coli
+NC_017626,Escherichia coli
+NC_017638,Escherichia coli
+NC_017656,Escherichia coli
+NC_009800,Escherichia coli
+NC_010473,Escherichia coli
+NC_017633,Escherichia coli
+NC_007779,Escherichia coli
+NC_011415,Escherichia coli
+NC_011741,Escherichia coli
+NC_011742,Escherichia coli
+NC_011745,Escherichia coli
+NC_011748,Escherichia coli
+NC_012759,Escherichia coli
+NC_012967,Escherichia coli
+NC_013008,Escherichia coli
+NC_013353,Escherichia coli
+NC_013361,Escherichia coli
+NC_013364,Escherichia coli
+NC_017660,Escherichia coli
+NC_017635,Escherichia coli
+NC_017664,Escherichia coli
+NC_017631,Escherichia coli
+NC_012892,Escherichia coli
+NC_012971,Escherichia coli
+NC_013654,Escherichia coli
+NC_020518,Escherichia coli
+NC_013941,Escherichia coli
+NC_017628,Escherichia coli
+NC_017651,Escherichia coli
+NC_017652,Escherichia coli
+NC_017663,Escherichia coli
+NC_017906,Escherichia coli
+NC_018661,Escherichia coli
+NC_018650,Escherichia coli
+NC_020163,Escherichia coli
+NC_022364,Escherichia coli
+NC_022370,Escherichia coli
+NC_022648,Escherichia coli
+NC_000913,Escherichia coli
+NC_011751,Escherichia coli
+NC_011750,Escherichia coli
+NC_017634,Escherichia coli
+NC_018658,Escherichia coli
+NC_002655,Escherichia coli
+NC_002695,Escherichia coli
+NC_004431,Escherichia coli
+NC_008253,Escherichia coli
+NC_011353,Escherichia coli
+NC_011601,Escherichia coli
+NC_011740,Escherichia fergusonii
+NC_014828,Ethanoligenens harbinense
+NC_014624,Eubacterium limosum
+NC_012781,Eubacterium rectale
+NC_018665,Exiguobacterium antarcticum
+NC_010556,Exiguobacterium sibiricum
+NC_012673,Exiguobacterium sp. AT1b
+NC_022794,Exiguobacterium sp. MH3
+NC_021042,Faecalibacterium prausnitzii
+NC_014541,Ferrimonas balearica
+NC_009718,Fervidobacterium nodosum
+NC_017095,Fervidobacterium pennivorans
+NC_017448,Fibrobacter succinogenes
+NC_013410,Fibrobacter succinogenes
+NC_016630,Filifactor alocis
+NC_010376,Finegoldia magna
+NC_013062,Flavobacteriaceae bacterium 3519-10
+NC_016001,Flavobacterium branchiophilum
+NC_016510,Flavobacterium columnare
+NC_017025,Flavobacterium indicum
+NC_009441,Flavobacterium johnsoniae
+NC_009613,Flavobacterium psychrophilum
+NC_018018,Flexibacter litoralis
+NC_015672,Flexistipes sinusarabici
+NC_015321,Fluviicola taffensis
+NC_017909,Francisella noatunensis
+NC_023029,Francisella noatunensis
+NC_010336,Francisella philomiragia
+NC_015696,Francisella sp. TX077308
+NC_007880,Francisella tularensis
+NC_008245,Francisella tularensis
+NC_008369,Francisella tularensis
+NC_009257,Francisella tularensis
+NC_009749,Francisella tularensis
+NC_010677,Francisella tularensis
+NC_017450,Francisella tularensis
+NC_017453,Francisella tularensis
+NC_017449,Francisella tularensis
+NC_019551,Francisella tularensis
+NC_019537,Francisella tularensis
+NC_008601,Francisella tularensis
+NC_016933,Francisella tularensis
+NC_016937,Francisella tularensis
+NC_006570,Francisella tularensis
+NC_008278,Frankia alni
+NC_007777,Frankia sp. CcI3
+NC_009921,Frankia sp. EAN1pec
+NC_014666,Frankia sp. EuI1c
+NC_015656,Frankia symbiont of Datisca glomerata
+NC_017033,Frateuria aurantia
+NC_021038,Fretibacterium fastidiosum
+NC_021281,Fusobacterium nucleatum
+NC_022196,Fusobacterium nucleatum
+NC_003454,Fusobacterium nucleatum
+NC_015460,Gallibacterium anatis
+NC_014394,Gallionella capsiferriformans
+NC_017456,Gardnerella vaginalis
+NC_013721,Gardnerella vaginalis
+NC_014644,Gardnerella vaginalis
+NC_019703,Geitlerinema sp. PCC 7407
+NC_012489,Gemmatimonas aurantiaca
+NC_006510,Geobacillus kaustophilus
+NC_014206,Geobacillus sp. C56-T3
+NC_020210,Geobacillus sp. GHH01
+NC_022080,Geobacillus sp. JF8
+NC_012793,Geobacillus sp. WCH70
+NC_014650,Geobacillus sp. Y4.1MC1
+NC_014915,Geobacillus sp. Y412MC52
+NC_013411,Geobacillus sp. Y412MC61
+NC_009328,Geobacillus thermodenitrificans
+NC_015660,Geobacillus thermoglucosidasius
+NC_016593,Geobacillus thermoleovorans
+NC_011146,Geobacter bemidjiensis
+NC_011979,Geobacter daltonii
+NC_010814,Geobacter lovleyi
+NC_007517,Geobacter metallireducens
+NC_014973,Geobacter sp. M18
+NC_012918,Geobacter sp. M21
+NC_017454,Geobacter sulfurreducens
+NC_002939,Geobacter sulfurreducens
+NC_009483,Geobacter uraniireducens
+NC_013757,Geodermatophilus obscurus
+NC_016041,Glaciecola nitratireducens
+NC_020514,Glaciecola psychrophila
+NC_015497,Glaciecola sp. 4H-3-7+YE-5
+NC_022600,Gloeobacter kilaueensis
+NC_005125,Gloeobacter violaceus
+NC_019745,Gloeocapsa sp. PCC 7428
+NC_011365,Gluconacetobacter diazotrophicus
+NC_010125,Gluconacetobacter diazotrophicus
+NC_019396,Gluconobacter oxydans
+NC_006677,Gluconobacter oxydans
+NC_013441,Gordonia bronchialis
+NC_016906,Gordonia polyisoprenivorans
+NC_018581,Gordonia sp. KTR9
+NC_018664,Gottschalkia acidurici
+NC_008571,Gramella forsetii
+NC_008343,Granulibacter bethesdensis
+NC_016631,Granulicella mallensis
+NC_015064,Granulicella tundricola
+NC_002940,Haemophilus ducreyi
+NC_009567,Haemophilus influenzae
+NC_007146,Haemophilus influenzae
+NC_016809,Haemophilus influenzae
+NC_014920,Haemophilus influenzae
+NC_014922,Haemophilus influenzae
+NC_017452,Haemophilus influenzae
+NC_009566,Haemophilus influenzae
+NC_022356,Haemophilus influenzae
+NC_017451,Haemophilus influenzae
+NC_000907,Haemophilus influenzae
+NC_015964,Haemophilus parainfluenzae
+NC_011852,Haemophilus parasuis
+NC_021521,Haemophilus parasuis
+NC_007645,Hahella chejuensis
+NC_014654,Halanaerobium hydrogeniformans
+NC_017455,Halanaerobium praevalens
+NC_013440,Haliangium ochraceum
+NC_015510,Haliscomenobacter hydrossis
+NC_017668,Halobacillus halophilus
+NC_019978,Halobacteroides halobius
+NC_014532,Halomonas elongata
+NC_008789,Halorhodospira halophila
+NC_019779,Halothece sp. PCC 7418
+NC_011899,Halothermothrix orenii
+NC_013422,Halothiobacillus neapolitanus
+NC_022547,Halyomorpha halys symbiont
+NC_008229,Helicobacter acinonychis
+NC_015674,Helicobacter bizzozeronii
+NC_017735,Helicobacter cetorum
+NC_017737,Helicobacter cetorum
+NC_017761,Helicobacter cinaedi
+NC_020555,Helicobacter cinaedi
+NC_014810,Helicobacter felis
+NC_004917,Helicobacter hepaticus
+NC_013949,Helicobacter mustelae
+NC_008086,Helicobacter pylori
+NC_011333,Helicobacter pylori
+NC_011498,Helicobacter pylori
+NC_012973,Helicobacter pylori
+NC_014256,Helicobacter pylori
+NC_017354,Helicobacter pylori
+NC_017357,Helicobacter pylori
+NC_017358,Helicobacter pylori
+NC_017359,Helicobacter pylori
+NC_017360,Helicobacter pylori
+NC_017362,Helicobacter pylori
+NC_017365,Helicobacter pylori
+NC_017366,Helicobacter pylori
+NC_017368,Helicobacter pylori
+NC_017371,Helicobacter pylori
+NC_017372,Helicobacter pylori
+NC_017361,Helicobacter pylori
+NC_017374,Helicobacter pylori
+NC_017375,Helicobacter pylori
+NC_017376,Helicobacter pylori
+NC_017378,Helicobacter pylori
+NC_017379,Helicobacter pylori
+NC_017381,Helicobacter pylori
+NC_017367,Helicobacter pylori
+NC_017733,Helicobacter pylori
+NC_017739,Helicobacter pylori
+NC_017740,Helicobacter pylori
+NC_017741,Helicobacter pylori
+NC_017742,Helicobacter pylori
+NC_017382,Helicobacter pylori
+NC_017926,Helicobacter pylori
+NC_018937,Helicobacter pylori
+NC_018939,Helicobacter pylori
+NC_018938,Helicobacter pylori
+NC_019560,Helicobacter pylori
+NC_019563,Helicobacter pylori
+NC_020508,Helicobacter pylori
+NC_020509,Helicobacter pylori
+NC_014555,Helicobacter pylori
+NC_014560,Helicobacter pylori
+NC_017063,Helicobacter pylori
+NC_010698,Helicobacter pylori
+NC_017355,Helicobacter pylori
+NC_022130,Helicobacter pylori
+NC_021217,Helicobacter pylori
+NC_021218,Helicobacter pylori
+NC_021215,Helicobacter pylori
+NC_021216,Helicobacter pylori
+NC_021882,Helicobacter pylori
+NC_022886,Helicobacter pylori
+NC_022911,Helicobacter pylori
+NC_000915,Helicobacter pylori
+NC_000921,Helicobacter pylori
+NC_010337,Heliobacterium modesticaldum
+NC_014323,Herbaspirillum seropedicae
+NC_009138,Herminiimonas arsenicoxydans
+NC_009972,Herpetosiphon aurantiacus
+NC_015318,Hippea maritima
+NC_012982,Hirschia baltica
+NC_008309,Histophilus somni
+NC_010519,Histophilus somni
+NC_013799,Hydrogenobacter thermophilus
+NC_017161,Hydrogenobacter thermophilus
+NC_020411,Hydrogenobaculum sp. HO
+NC_020814,Hydrogenobaculum sp. SN
+NC_011126,Hydrogenobaculum sp. Y04AAS1
+NC_014313,Hyphomicrobium denitrificans
+NC_021172,Hyphomicrobium denitrificans
+NC_022997,Hyphomicrobium nitrativorans
+NC_015717,Hyphomicrobium sp. MC1
+NC_008358,Hyphomonas neptunium
+NC_021286,Idiomarina loihiensis
+NC_006512,Idiomarina loihiensis
+NC_017464,Ignavibacterium album
+NC_020520,Ilumatobacter coccineus
+NC_014632,Ilyobacter polytropus
+NC_014830,Intrasporangium calvum
+NC_015588,Isoptericola variabilis
+NC_014962,Isosphaera pallida
+NC_007802,Jannaschia sp. CCS1
+NC_009659,Janthinobacterium sp. Marseille
+NC_013174,Jonesia denitrificans
+NC_013166,Kangiella koreensis
+NC_014625,Ketogulonicigenium vulgare
+NC_017384,Ketogulonicigenium vulgare
+NC_009664,Kineococcus radiotolerans
+NC_019814,Kinetoplastibacterium blastocrithidii
+NC_020285,Kinetoplastibacterium blastocrithidii
+NC_016109,Kitasatospora setae
+NC_018106,Klebsiella oxytoca
+NC_016612,Klebsiella oxytoca
+NC_012731,Klebsiella pneumoniae
+NC_018522,Klebsiella pneumoniae
+NC_017540,Klebsiella pneumoniae
+NC_009648,Klebsiella pneumoniae
+NC_011283,Klebsiella pneumoniae
+NC_022082,Klebsiella pneumoniae
+NC_022566,Klebsiella pneumoniae
+NC_016845,Klebsiella pneumoniae
+NC_013850,Klebsiella variicola
+NC_010617,Kocuria rhizophila
+NC_016027,Komagataeibacter medellinensis
+NC_012785,Kosmotoga olearia
+NC_013729,Kribbella flavida
+NC_014098,Kyrpidia tusciae
+NC_013169,Kytococcus sedentarius
+NC_010001,Lachnoclostridium phytofermentans
+NC_015638,Lacinutrix sp. 5H-3-7-4
+NC_015214,Lactobacillus acidophilus
+NC_021181,Lactobacillus acidophilus
+NC_006814,Lactobacillus acidophilus
+NC_017470,Lactobacillus amylovorus
+NC_014724,Lactobacillus amylovorus
+NC_008497,Lactobacillus brevis
+NC_020819,Lactobacillus brevis
+NC_018610,Lactobacillus buchneri
+NC_015428,Lactobacillus buchneri
+NC_017473,Lactobacillus casei
+NC_018641,Lactobacillus casei
+NC_021721,Lactobacillus casei
+NC_008526,Lactobacillus casei
+NC_010999,Lactobacillus casei
+NC_014334,Lactobacillus casei
+NC_017474,Lactobacillus casei
+NC_014106,Lactobacillus crispatus
+NC_008054,Lactobacillus delbrueckii
+NC_017469,Lactobacillus delbrueckii
+NC_014727,Lactobacillus delbrueckii
+NC_008529,Lactobacillus delbrueckii
+NC_010610,Lactobacillus fermentum
+NC_017465,Lactobacillus fermentum
+NC_021235,Lactobacillus fermentum
+NC_008530,Lactobacillus gasseri
+NC_017467,Lactobacillus helveticus
+NC_018528,Lactobacillus helveticus
+NC_010080,Lactobacillus helveticus
+NC_021744,Lactobacillus helveticus
+NC_013504,Lactobacillus johnsonii
+NC_017477,Lactobacillus johnsonii
+NC_005362,Lactobacillus johnsonii
+NC_022909,Lactobacillus johnsonii
+NC_015602,Lactobacillus kefiranofaciens
+NC_022112,Lactobacillus paracasei
+NC_020229,Lactobacillus plantarum
+NC_014554,Lactobacillus plantarum
+NC_021514,Lactobacillus plantarum
+NC_012984,Lactobacillus plantarum
+NC_021224,Lactobacillus plantarum
+NC_004567,Lactobacillus plantarum
+NC_010609,Lactobacillus reuteri
+NC_015697,Lactobacillus reuteri
+NC_009513,Lactobacillus reuteri
+NC_021494,Lactobacillus reuteri
+NC_021872,Lactobacillus reuteri
+NC_013198,Lactobacillus rhamnosus
+NC_013199,Lactobacillus rhamnosus
+NC_017482,Lactobacillus rhamnosus
+NC_017491,Lactobacillus rhamnosus
+NC_021723,Lactobacillus rhamnosus
+NC_021725,Lactobacillus rhamnosus
+NC_015975,Lactobacillus ruminis
+NC_007576,Lactobacillus sakei
+NC_017481,Lactobacillus salivarius
+NC_007929,Lactobacillus salivarius
+NC_015978,Lactobacillus sanfranciscensis
+NC_017490,Lactococcus garvieae
+NC_015930,Lactococcus garvieae
+NC_009004,Lactococcus lactis
+NC_013656,Lactococcus lactis
+NC_017486,Lactococcus lactis
+NC_017492,Lactococcus lactis
+NC_017949,Lactococcus lactis
+NC_019435,Lactococcus lactis
+NC_008527,Lactococcus lactis
+NC_020450,Lactococcus lactis
+NC_022369,Lactococcus lactis
+NC_022593,Lactococcus lactis
+NC_002662,Lactococcus lactis
+NC_012559,Laribacter hongkongensis
+NC_008011,Lawsonia intracellularis
+NC_020127,Lawsonia intracellularis
+NC_014655,Leadbetterella byssophila
+NC_013861,Legionella longbeachae
+NC_009494,Legionella pneumophila
+NC_014125,Legionella pneumophila
+NC_018139,Legionella pneumophila
+NC_017525,Legionella pneumophila
+NC_017526,Legionella pneumophila
+NC_002942,Legionella pneumophila
+NC_016811,Legionella pneumophila
+NC_021350,Legionella pneumophila
+NC_018140,Legionella pneumophila
+NC_020521,Legionella pneumophila
+NC_006369,Legionella pneumophila
+NC_006368,Legionella pneumophila
+NC_006087,Leifsonia xyli
+NC_022438,Leifsonia xyli
+NC_023135,Leisingera methylohalidivorans
+NC_019683,Leptolyngbya sp. PCC 7376
+NC_010843,Leptospira biflexa
+NC_010842,Leptospira biflexa
+NC_010845,Leptospira biflexa
+NC_010602,Leptospira biflexa
+NC_008510,Leptospira borgpetersenii
+NC_008511,Leptospira borgpetersenii
+NC_008508,Leptospira borgpetersenii
+NC_008509,Leptospira borgpetersenii
+NC_017551,Leptospira interrogans
+NC_017552,Leptospira interrogans
+NC_004342,Leptospira interrogans
+NC_004343,Leptospira interrogans
+NC_005824,Leptospira interrogans
+NC_005823,Leptospira interrogans
+NC_018649,Leptospirillum ferriphilum
+NC_017094,Leptospirillum ferrooxidans
+NC_010524,Leptothrix cholodnii
+NC_013192,Leptotrichia buccalis
+NC_018673,Leuconostoc carnosum
+NC_010471,Leuconostoc citreum
+NC_014319,Leuconostoc gasicomitatum
+NC_018631,Leuconostoc gelidum
+NC_014136,Leuconostoc kimchii
+NC_016805,Leuconostoc mesenteroides
+NC_008531,Leuconostoc mesenteroides
+NC_015734,Leuconostoc sp. C2
+NC_019907,Liberibacter crescens
+NC_003212,Listeria innocua
+NC_016011,Listeria ivanovii
+NC_002973,Listeria monocytogenes
+NC_011660,Listeria monocytogenes
+NC_012488,Listeria monocytogenes
+NC_013766,Listeria monocytogenes
+NC_013768,Listeria monocytogenes
+NC_017529,Listeria monocytogenes
+NC_017544,Listeria monocytogenes
+NC_017545,Listeria monocytogenes
+NC_017728,Listeria monocytogenes
+NC_018587,Listeria monocytogenes
+NC_018588,Listeria monocytogenes
+NC_018591,Listeria monocytogenes
+NC_018590,Listeria monocytogenes
+NC_018593,Listeria monocytogenes
+NC_018584,Listeria monocytogenes
+NC_018585,Listeria monocytogenes
+NC_018586,Listeria monocytogenes
+NC_018589,Listeria monocytogenes
+NC_018642,Listeria monocytogenes
+NC_020557,Listeria monocytogenes
+NC_020558,Listeria monocytogenes
+NC_017537,Listeria monocytogenes
+NC_019556,Listeria monocytogenes
+NC_017546,Listeria monocytogenes
+NC_017547,Listeria monocytogenes
+NC_018592,Listeria monocytogenes
+NC_021829,Listeria monocytogenes
+NC_022568,Listeria monocytogenes
+NC_021825,Listeria monocytogenes
+NC_021837,Listeria monocytogenes
+NC_021824,Listeria monocytogenes
+NC_021823,Listeria monocytogenes
+NC_021838,Listeria monocytogenes
+NC_021840,Listeria monocytogenes
+NC_021827,Listeria monocytogenes
+NC_021839,Listeria monocytogenes
+NC_021826,Listeria monocytogenes
+NC_021830,Listeria monocytogenes
+NC_003210,Listeria monocytogenes
+NC_013891,Listeria seeligeri
+NC_008555,Listeria welshimeri
+NC_010382,Lysinibacillus sphaericus
+NC_011999,Macrococcus caseolyticus
+NC_008576,Magnetococcus marinus
+NC_023065,Magnetospirillum gryphiswaldense
+NC_007626,Magnetospirillum magneticum
+NC_015520,Mahella australiensis
+NC_020833,Mannheimia haemolytica
+NC_020834,Mannheimia haemolytica
+NC_021082,Mannheimia haemolytica
+NC_021743,Mannheimia haemolytica
+NC_021738,Mannheimia haemolytica
+NC_021739,Mannheimia haemolytica
+NC_021883,Mannheimia haemolytica
+NC_014472,Maribacter sp. HTCC2170
+NC_008347,Maricaulis maris
+NC_015387,Marinithermus hydrothermalis
+NC_016751,Marinitoga piezophila
+NC_017506,Marinobacter adhaerens
+NC_008740,Marinobacter hydrocarbonoclasticus
+NC_017067,Marinobacter hydrocarbonoclasticus
+NC_018268,Marinobacter sp. BSs20148
+NC_015276,Marinomonas mediterranea
+NC_015559,Marinomonas posidonica
+NC_009654,Marinomonas sp. MWYL1
+NC_014759,Marivirga tractuosa
+NC_015873,Megasphaera elsdenii
+NC_013946,Meiothermus ruber
+NC_014212,Meiothermus silvanus
+NC_018178,Melioribacter roseus
+NC_015516,Melissococcus plutonius
+NC_016938,Melissococcus plutonius
+NC_022583,Mesoplasma florum
+NC_006055,Mesoplasma florum
+NC_019973,Mesorhizobium australicum
+NC_014923,Mesorhizobium ciceri
+NC_002678,Mesorhizobium loti
+NC_015675,Mesorhizobium opportunistum
+NC_017934,Mesotoga prima
+NC_010794,Methylacidiphilum infernorum
+NC_008825,Methylibium petroleiphilum
+NC_007947,Methylobacillus flagellatus
+NC_011757,Methylobacterium extorquens
+NC_010172,Methylobacterium extorquens
+NC_012808,Methylobacterium extorquens
+NC_012988,Methylobacterium extorquens
+NC_011894,Methylobacterium nodulans
+NC_010725,Methylobacterium populi
+NC_010505,Methylobacterium radiotolerans
+NC_010511,Methylobacterium sp. 4-46
+NC_011666,Methylocella silvestris
+NC_002977,Methylococcus capsulatus
+NC_018485,Methylocystis sp. SC2
+NC_016112,Methylomicrobium alcaliphilum
+NC_015572,Methylomonas methanica
+NC_017856,Methylophaga frappieri
+NC_017857,Methylophaga nitratireducenticrescens
+NC_012968,Methylotenera mobilis
+NC_014207,Methylotenera versatilis
+NC_012969,Methylovorus glucosotrophus
+NC_014733,Methylovorus sp. MP688
+NC_016026,Micavibrio aeruginosavorus
+NC_020812,Micavibrio aeruginosavorus
+NC_015125,Microbacterium testaceum
+NC_012803,Micrococcus luteus
+NC_019738,Microcoleus sp. PCC 7113
+NC_010296,Microcystis aeruginosa
+NC_015635,Microlunatus phosphovorus
+NC_014391,Micromonospora aurantiaca
+NC_014815,Micromonospora sp. L5
+NC_014246,Mobiluncus curtisii
+NC_017955,Modestobacter marinus
+NC_007644,Moorella thermoacetica
+NC_014147,Moraxella catarrhalis
+NC_020418,Morganella morganii
+NC_015945,Muricauda ruestringensis
+NC_010397,Mycobacterium abscessus
+NC_018150,Mycobacterium abscessus
+NC_021282,Mycobacterium abscessus
+NC_015758,Mycobacterium africanum
+NC_008595,Mycobacterium avium
+NC_021200,Mycobacterium avium
+NC_002944,Mycobacterium avium
+NC_008769,Mycobacterium bovis
+NC_012207,Mycobacterium bovis
+NC_020245,Mycobacterium bovis
+NC_016804,Mycobacterium bovis
+NC_002945,Mycobacterium bovis
+NC_015848,Mycobacterium canettii
+NC_019950,Mycobacterium canettii
+NC_019951,Mycobacterium canettii
+NC_019952,Mycobacterium canettii
+NC_019965,Mycobacterium canettii
+NC_018027,Mycobacterium chubuense
+NC_009338,Mycobacterium gilvum
+NC_014814,Mycobacterium gilvum
+NC_018612,Mycobacterium indicus pranii
+NC_016946,Mycobacterium intracellulare
+NC_016947,Mycobacterium intracellulare
+NC_016948,Mycobacterium intracellulare
+NC_022663,Mycobacterium kansasii
+NC_011896,Mycobacterium leprae
+NC_002677,Mycobacterium leprae
+NC_020133,Mycobacterium liflandii
+NC_010612,Mycobacterium marinum
+NC_023036,Mycobacterium neoaurum
+NC_016604,Mycobacterium rhodesiae
+NC_019966,Mycobacterium smegmatis
+NC_018289,Mycobacterium smegmatis
+NC_008596,Mycobacterium smegmatis
+NC_015576,Mycobacterium sp. JDM601
+NC_009077,Mycobacterium sp. JLS
+NC_008705,Mycobacterium sp. KMS
+NC_008146,Mycobacterium sp. MCS
+NC_017904,Mycobacterium sp. MOTT36Y
+NC_009525,Mycobacterium tuberculosis
+NC_009565,Mycobacterium tuberculosis
+NC_012943,Mycobacterium tuberculosis
+NC_017522,Mycobacterium tuberculosis
+NC_017523,Mycobacterium tuberculosis
+NC_017524,Mycobacterium tuberculosis
+NC_018078,Mycobacterium tuberculosis
+NC_020089,Mycobacterium tuberculosis
+NC_021054,Mycobacterium tuberculosis
+NC_021194,Mycobacterium tuberculosis
+NC_021251,Mycobacterium tuberculosis
+NC_016768,Mycobacterium tuberculosis
+NC_016934,Mycobacterium tuberculosis
+NC_020559,Mycobacterium tuberculosis
+NC_021192,Mycobacterium tuberculosis
+NC_021193,Mycobacterium tuberculosis
+NC_022350,Mycobacterium tuberculosis
+NC_021740,Mycobacterium tuberculosis
+NC_018143,Mycobacterium tuberculosis
+NC_000962,Mycobacterium tuberculosis
+NC_002755,Mycobacterium tuberculosis
+NC_008611,Mycobacterium ulcerans
+NC_008726,Mycobacterium vanbaalenii
+NC_021715,Mycobacterium yongonense
+NC_009497,Mycoplasma agalactiae
+NC_013948,Mycoplasma agalactiae
+NC_011025,Mycoplasma arthritidis
+NC_015725,Mycoplasma bovis
+NC_018077,Mycoplasma bovis
+NC_014760,Mycoplasma bovis
+NC_007633,Mycoplasma capricolum
+NC_012806,Mycoplasma conjunctivae
+NC_014014,Mycoplasma crocodyli
+NC_019949,Mycoplasma cynos
+NC_021002,Mycoplasma fermentans
+NC_014552,Mycoplasma fermentans
+NC_014921,Mycoplasma fermentans
+NC_017502,Mycoplasma gallisepticum
+NC_017503,Mycoplasma gallisepticum
+NC_018406,Mycoplasma gallisepticum
+NC_018407,Mycoplasma gallisepticum
+NC_018408,Mycoplasma gallisepticum
+NC_018409,Mycoplasma gallisepticum
+NC_018410,Mycoplasma gallisepticum
+NC_018411,Mycoplasma gallisepticum
+NC_018412,Mycoplasma gallisepticum
+NC_018413,Mycoplasma gallisepticum
+NC_004829,Mycoplasma gallisepticum
+NC_023030,Mycoplasma gallisepticum
+NC_018495,Mycoplasma genitalium
+NC_018496,Mycoplasma genitalium
+NC_018497,Mycoplasma genitalium
+NC_018498,Mycoplasma genitalium
+NC_000908,Mycoplasma genitalium
+NC_016638,Mycoplasma haemocanis
+NC_017520,Mycoplasma haemofelis
+NC_014970,Mycoplasma haemofelis
+NC_013511,Mycoplasma hominis
+NC_017509,Mycoplasma hyopneumoniae
+NC_006360,Mycoplasma hyopneumoniae
+NC_021283,Mycoplasma hyopneumoniae
+NC_021831,Mycoplasma hyopneumoniae
+NC_007295,Mycoplasma hyopneumoniae
+NC_007332,Mycoplasma hyopneumoniae
+NC_014448,Mycoplasma hyorhinis
+NC_016829,Mycoplasma hyorhinis
+NC_017519,Mycoplasma hyorhinis
+NC_019552,Mycoplasma hyorhinis
+NC_022807,Mycoplasma hyorhinis
+NC_017521,Mycoplasma leachii
+NC_014751,Mycoplasma leachii
+NC_006908,Mycoplasma mobile
+NC_021025,Mycoplasma mycoides
+NC_015431,Mycoplasma mycoides
+NC_005364,Mycoplasma mycoides
+NC_001382,Mycoplasma mycoides
+NC_023062,Mycoplasma ovis
+NC_022575,Mycoplasma parvum
+NC_004432,Mycoplasma penetrans
+NC_016807,Mycoplasma pneumoniae
+NC_017504,Mycoplasma pneumoniae
+NC_020076,Mycoplasma pneumoniae
+NC_000912,Mycoplasma pneumoniae
+NC_002771,Mycoplasma pulmonis
+NC_015946,Mycoplasma putrefaciens
+NC_021083,Mycoplasma putrefaciens
+NC_015153,Mycoplasma suis
+NC_015155,Mycoplasma suis
+NC_007294,Mycoplasma synoviae
+NC_018149,Mycoplasma wenyonii
+NC_015711,Myxococcus fulvus
+NC_020126,Myxococcus stipitatus
+NC_008095,Myxococcus xanthus
+NC_013235,Nakamurella multipartita
+NC_010718,Natranaerobius thermophilus
+NC_012115,Nautilia profundicola
+NC_011035,Neisseria gonorrhoeae
+NC_017511,Neisseria gonorrhoeae
+NC_022240,Neisseria gonorrhoeae
+NC_002946,Neisseria gonorrhoeae
+NC_014752,Neisseria lactamica
+NC_008767,Neisseria meningitidis
+NC_010120,Neisseria meningitidis
+NC_013016,Neisseria meningitidis
+NC_017501,Neisseria meningitidis
+NC_017505,Neisseria meningitidis
+NC_017512,Neisseria meningitidis
+NC_017513,Neisseria meningitidis
+NC_017514,Neisseria meningitidis
+NC_017515,Neisseria meningitidis
+NC_017516,Neisseria meningitidis
+NC_017517,Neisseria meningitidis
+NC_017518,Neisseria meningitidis
+NC_003112,Neisseria meningitidis
+NC_003116,Neisseria meningitidis
+NC_013009,Neorickettsia risticii
+NC_007798,Neorickettsia sennetsu
+NC_016609,Niastella koreensis
+NC_014935,Nitratifractor salsuginis
+NC_009662,Nitratiruptor sp. SB155-2
+NC_007964,Nitrobacter hamburgensis
+NC_007406,Nitrobacter winogradskyi
+NC_013960,Nitrosococcus halophilus
+NC_007484,Nitrosococcus oceani
+NC_014315,Nitrosococcus watsonii
+NC_004757,Nitrosomonas europaea
+NC_008344,Nitrosomonas eutropha
+NC_015222,Nitrosomonas sp. AL212
+NC_015731,Nitrosomonas sp. Is79A3
+NC_007614,Nitrosospira multiformis
+NC_018681,Nocardia brasiliensis
+NC_016887,Nocardia cyriacigeorgica
+NC_006361,Nocardia farcinica
+NC_008699,Nocardioides sp. JS614
+NC_018524,Nocardiopsis alba
+NC_014210,Nocardiopsis dassonvillei
+NC_014211,Nocardiopsis dassonvillei
+NC_020156,Nonlabens dokdonensis
+NC_010628,Nostoc punctiforme
+NC_019676,Nostoc sp. PCC 7107
+NC_003272,Nostoc sp. PCC 7120
+NC_019684,Nostoc sp. PCC 7524
+NC_007794,Novosphingobium aromaticivorans
+NC_015580,Novosphingobium sp. PP1Y
+NC_016745,Oceanimonas sp. GK1
+NC_014761,Oceanithermus profundus
+NC_004193,Oceanobacillus iheyensis
+NC_009667,Ochrobactrum anthropi
+NC_009668,Ochrobactrum anthropi
+NC_020911,Octadecabacter antarcticus
+NC_020908,Octadecabacter arcticus
+NC_015160,Odoribacter splanchnicus
+NC_008528,Oenococcus oeni
+NC_011386,Oligotropha carboxidovorans
+NC_015684,Oligotropha carboxidovorans
+NC_017538,Oligotropha carboxidovorans
+NC_014363,Olsenella uli
+NC_005303,Onion yellows phytoplasma
+NC_010571,Opitutus terrae
+NC_009488,Orientia tsutsugamushi
+NC_010793,Orientia tsutsugamushi
+NC_018016,Ornithobacterium rhinotracheale
+NC_019693,Oscillatoria acuminata
+NC_019729,Oscillatoria nigro-viridis
+NC_016048,Oscillibacter valericigenes
+NC_016599,Owenweeksia hongkongensis
+NC_023134,Paenibacillus larvae
+NC_015690,Paenibacillus mucilaginosus
+NC_016935,Paenibacillus mucilaginosus
+NC_017672,Paenibacillus mucilaginosus
+NC_017542,Paenibacillus polymyxa
+NC_014483,Paenibacillus polymyxa
+NC_014622,Paenibacillus polymyxa
+NC_023037,Paenibacillus polymyxa
+NC_012914,Paenibacillus sp. JDR-2
+NC_013406,Paenibacillus sp. Y412MC10
+NC_016641,Paenibacillus terrae
+NC_014734,Paludibacter propionicigenes
+NC_022904,Pandoraea pnomenusa
+NC_013956,Pantoea ananatis
+NC_016816,Pantoea ananatis
+NC_017531,Pantoea ananatis
+NC_017554,Pantoea ananatis
+NC_014837,Pantoea sp. At-9b
+NC_014562,Pantoea vagans
+NC_009615,Parabacteroides distasonis
+NC_015702,Parachlamydia acanthamoebae
+NC_022041,Paracoccus aminophilus
+NC_008686,Paracoccus denitrificans
+NC_008687,Paracoccus denitrificans
+NC_009719,Parvibaculum lavamentivorans
+NC_014414,Parvularcula bermudensis
+NC_017764,Pasteurella multocida
+NC_002663,Pasteurella multocida
+NC_016808,Pasteurella multocida
+NC_017027,Pasteurella multocida
+NC_004547,Pectobacterium atrosepticum
+NC_012917,Pectobacterium carotovorum
+NC_018525,Pectobacterium carotovorum
+NC_017845,Pectobacterium sp. SCC3193
+NC_013421,Pectobacterium wasabiae
+NC_016605,Pediococcus claussenii
+NC_008525,Pediococcus pentosaceus
+NC_022780,Pediococcus pentosaceus
+NC_013061,Pedobacter heparinus
+NC_015177,Pedobacter saltans
+NC_016078,Pelagibacterium halotolerans
+NC_007498,Pelobacter carbinolicus
+NC_008609,Pelobacter propionicus
+NC_007512,Pelodictyon luteolum
+NC_011060,Pelodictyon phaeoclathratiforme
+NC_009454,Pelotomaculum thermopropionicum
+NC_013315,Peptoclostridium difficile
+NC_013316,Peptoclostridium difficile
+NC_017177,Peptoclostridium difficile
+NC_017175,Peptoclostridium difficile
+NC_017179,Peptoclostridium difficile
+NC_017178,Peptoclostridium difficile
+NC_009089,Peptoclostridium difficile
+NC_012440,Persephonella marina
+NC_010003,Petrotoga mobilis
+NC_018286,Phaeobacter gallaeciensis
+NC_023137,Phaeobacter gallaeciensis
+NC_018290,Phaeobacter inhibens
+NC_011144,Phenylobacterium zucineum
+NC_006371,Photobacterium profundum
+NC_006370,Photobacterium profundum
+NC_012962,Photorhabdus asymbiotica
+NC_005126,Photorhabdus luminescens
+NC_017080,Phycisphaera mikurensis
+NC_013720,Pirellula staleyi
+NC_015174,Planctomyces brasiliensis
+NC_014148,Planctomyces limnophilus
+NC_022546,Plautia stali symbiont
+NC_019689,Pleurocapsa minor
+NC_020830,Polaribacter sp. MED152
+NC_008781,Polaromonas naphthalenivorans
+NC_007948,Polaromonas sp. JS666
+NC_015259,Polymorphum gilvum
+NC_009379,Polynucleobacter necessarius
+NC_010531,Polynucleobacter necessarius
+NC_015501,Porphyromonas asaccharolytica
+NC_002950,Porphyromonas gingivalis
+NC_015571,Porphyromonas gingivalis
+NC_010729,Porphyromonas gingivalis
+NC_019960,Prevotella dentalis
+NC_019968,Prevotella dentalis
+NC_015311,Prevotella denticola
+NC_017860,Prevotella intermedia
+NC_017861,Prevotella intermedia
+NC_014370,Prevotella melaninogenica
+NC_014371,Prevotella melaninogenica
+NC_014033,Prevotella ruminicola
+NC_022124,Prevotella sp. oral taxon 299
+NC_008817,Prochlorococcus marinus
+NC_008816,Prochlorococcus marinus
+NC_008820,Prochlorococcus marinus
+NC_008819,Prochlorococcus marinus
+NC_009091,Prochlorococcus marinus
+NC_009840,Prochlorococcus marinus
+NC_009976,Prochlorococcus marinus
+NC_007335,Prochlorococcus marinus
+NC_005042,Prochlorococcus marinus
+NC_005072,Prochlorococcus marinus
+NC_005071,Prochlorococcus marinus
+NC_007577,Prochlorococcus marinus
+NC_019395,Propionibacterium acidipropionici
+NC_014039,Propionibacterium acnes
+NC_016511,Propionibacterium acnes
+NC_016512,Propionibacterium acnes
+NC_016516,Propionibacterium acnes
+NC_017534,Propionibacterium acnes
+NC_017550,Propionibacterium acnes
+NC_017535,Propionibacterium acnes
+NC_021085,Propionibacterium acnes
+NC_006085,Propionibacterium acnes
+NC_018707,Propionibacterium acnes
+NC_021064,Propionibacterium avidum
+NC_014215,Propionibacterium freudenreichii
+NC_018142,Propionibacterium propionicum
+NC_011059,Prosthecochloris aestuarii
+NC_010554,Proteus mirabilis
+NC_022000,Proteus mirabilis
+NC_017731,Providencia stuartii
+NC_019701,Pseudanabaena sp. PCC 7367
+NC_008228,Pseudoalteromonas atlantica
+NC_007482,Pseudoalteromonas haloplanktis
+NC_007481,Pseudoalteromonas haloplanktis
+NC_014800,Pseudoalteromonas sp. SM9913
+NC_014803,Pseudoalteromonas sp. SM9913
+NC_016002,Pseudogulbenkiania sp. NH8B
+NC_008463,Pseudomonas aeruginosa
+NC_009656,Pseudomonas aeruginosa
+NC_011770,Pseudomonas aeruginosa
+NC_017548,Pseudomonas aeruginosa
+NC_020912,Pseudomonas aeruginosa
+NC_021577,Pseudomonas aeruginosa
+NC_017549,Pseudomonas aeruginosa
+NC_018080,Pseudomonas aeruginosa
+NC_022806,Pseudomonas aeruginosa
+NC_022808,Pseudomonas aeruginosa
+NC_023019,Pseudomonas aeruginosa
+NC_023066,Pseudomonas aeruginosa
+NC_023149,Pseudomonas aeruginosa
+NC_002516,Pseudomonas aeruginosa
+NC_015379,Pseudomonas brassicacearum
+NC_020829,Pseudomonas denitrificans
+NC_008027,Pseudomonas entomophila
+NC_012660,Pseudomonas fluorescens
+NC_007492,Pseudomonas fluorescens
+NC_017911,Pseudomonas fluorescens
+NC_016830,Pseudomonas fluorescens
+NC_015556,Pseudomonas fulva
+NC_009439,Pseudomonas mendocina
+NC_015410,Pseudomonas mendocina
+NC_023075,Pseudomonas monteilii
+NC_023076,Pseudomonas monteilii
+NC_020209,Pseudomonas poae
+NC_021237,Pseudomonas protegens
+NC_004129,Pseudomonas protegens
+NC_010322,Pseudomonas putida
+NC_010501,Pseudomonas putida
+NC_015733,Pseudomonas putida
+NC_017530,Pseudomonas putida
+NC_017986,Pseudomonas putida
+NC_018220,Pseudomonas putida
+NC_019905,Pseudomonas putida
+NC_002947,Pseudomonas putida
+NC_021505,Pseudomonas putida
+NC_021491,Pseudomonas putida
+NC_009512,Pseudomonas putida
+NC_005773,Pseudomonas savastanoi
+NC_023064,Pseudomonas sp. TKP
+NC_019670,Pseudomonas sp. UW4
+NC_022738,Pseudomonas sp. VLB120
+NC_017532,Pseudomonas stutzeri
+NC_018028,Pseudomonas stutzeri
+NC_018177,Pseudomonas stutzeri
+NC_015740,Pseudomonas stutzeri
+NC_019936,Pseudomonas stutzeri
+NC_009434,Pseudomonas stutzeri
+NC_007005,Pseudomonas syringae
+NC_004578,Pseudomonas syringae group genomosp. 3
+NC_015312,Pseudonocardia dioxanivorans
+NC_016642,Pseudovibrio sp. FO-BEG1
+NC_016147,Pseudoxanthomonas spadix
+NC_014924,Pseudoxanthomonas suwonensis
+NC_007204,Psychrobacter arcticus
+NC_007969,Psychrobacter cryohalolentis
+NC_021661,Psychrobacter sp. G
+NC_009524,Psychrobacter sp. PRwf-1
+NC_018721,Psychroflexus torquis
+NC_008709,Psychromonas ingrahamii
+NC_020802,Psychromonas sp. CNPT3
+NC_015458,Pusillimonas sp. T7-7
+NC_017047,Rahnella aquatilis
+NC_016818,Rahnella aquatilis
+NC_015061,Rahnella sp. Y9602
+NC_012856,Ralstonia pickettii
+NC_012857,Ralstonia pickettii
+NC_010678,Ralstonia pickettii
+NC_010682,Ralstonia pickettii
+NC_022513,Ralstonia pickettii
+NC_022514,Ralstonia pickettii
+NC_022515,Ralstonia pickettii
+NC_017574,Ralstonia solanacearum
+NC_003295,Ralstonia solanacearum
+NC_014307,Ralstonia solanacearum
+NC_017559,Ralstonia solanacearum
+NC_020799,Ralstonia solanacearum
+NC_014311,Ralstonia solanacearum
+NC_015677,Ramlibacter tataouinensis
+NC_021066,Raoultella ornithinolytica
+NC_010168,Renibacterium salmoninarum
+NC_010994,Rhizobium etli
+NC_007761,Rhizobium etli
+NC_021905,Rhizobium etli
+NC_008380,Rhizobium leguminosarum
+NC_011369,Rhizobium leguminosarum
+NC_012850,Rhizobium leguminosarum
+NC_022535,Rhizobium sp. IRBG74
+NC_022545,Rhizobium sp. IRBG74
+NC_020059,Rhizobium tropici
+NC_020541,Rhodanobacter denitrificans
+NC_014034,Rhodobacter capsulatus
+NC_009049,Rhodobacter sphaeroides
+NC_009050,Rhodobacter sphaeroides
+NC_009428,Rhodobacter sphaeroides
+NC_011958,Rhodobacter sphaeroides
+NC_011963,Rhodobacter sphaeroides
+NC_007493,Rhodobacter sphaeroides
+NC_007494,Rhodobacter sphaeroides
+NC_012490,Rhodococcus erythropolis
+NC_022115,Rhodococcus erythropolis
+NC_014659,Rhodococcus hoagii
+NC_008268,Rhodococcus jostii
+NC_012522,Rhodococcus opacus
+NC_023150,Rhodococcus pyridinivorans
+NC_007908,Rhodoferax ferrireducens
+NC_014664,Rhodomicrobium vannielii
+NC_005027,Rhodopirellula baltica
+NC_007778,Rhodopseudomonas palustris
+NC_007925,Rhodopseudomonas palustris
+NC_007958,Rhodopseudomonas palustris
+NC_008435,Rhodopseudomonas palustris
+NC_011004,Rhodopseudomonas palustris
+NC_005296,Rhodopseudomonas palustris
+NC_014834,Rhodopseudomonas palustris
+NC_011420,Rhodospirillum centenum
+NC_017059,Rhodospirillum photometricum
+NC_017584,Rhodospirillum rubrum
+NC_007643,Rhodospirillum rubrum
+NC_015966,Rhodothermus marinus
+NC_013501,Rhodothermus marinus
+NC_012633,Rickettsia africae
+NC_009881,Rickettsia akari
+NC_017058,Rickettsia australis
+NC_009883,Rickettsia bellii
+NC_007940,Rickettsia bellii
+NC_016929,Rickettsia canadensis
+NC_009879,Rickettsia canadensis
+NC_003103,Rickettsia conorii
+NC_007109,Rickettsia felis
+NC_015866,Rickettsia heilongjiangensis
+NC_016050,Rickettsia japonica
+NC_016931,Rickettsia massiliae
+NC_009900,Rickettsia massiliae
+NC_017043,Rickettsia montanensis
+NC_017044,Rickettsia parkeri
+NC_012730,Rickettsia peacockii
+NC_016930,Rickettsia philipii
+NC_017048,Rickettsia prowazekii
+NC_017049,Rickettsia prowazekii
+NC_017050,Rickettsia prowazekii
+NC_017051,Rickettsia prowazekii
+NC_017056,Rickettsia prowazekii
+NC_017057,Rickettsia prowazekii
+NC_017560,Rickettsia prowazekii
+NC_020992,Rickettsia prowazekii
+NC_020993,Rickettsia prowazekii
+NC_000963,Rickettsia prowazekii
+NC_017042,Rickettsia rhipicephali
+NC_009882,Rickettsia rickettsii
+NC_016908,Rickettsia rickettsii
+NC_016909,Rickettsia rickettsii
+NC_016911,Rickettsia rickettsii
+NC_016913,Rickettsia rickettsii
+NC_016914,Rickettsia rickettsii
+NC_016915,Rickettsia rickettsii
+NC_010263,Rickettsia rickettsii
+NC_016639,Rickettsia slovaca
+NC_017065,Rickettsia slovaca
+NC_017066,Rickettsia typhi
+NC_017062,Rickettsia typhi
+NC_006142,Rickettsia typhi
+NC_017569,Riemerella anatipestifer
+NC_018609,Riemerella anatipestifer
+NC_020125,Riemerella anatipestifer
+NC_014738,Riemerella anatipestifer
+NC_017045,Riemerella anatipestifer
+NC_019678,Rivularia sp. PCC 7116
+NC_013222,Robiginitalea biformata
+NC_015977,Roseburia hominis
+NC_009767,Roseiflexus castenholzii
+NC_009523,Roseiflexus sp. RS-1
+NC_008209,Roseobacter denitrificans
+NC_015730,Roseobacter litoralis
+NC_014643,Rothia dentocariosa
+NC_013715,Rothia mucilaginosa
+NC_017075,Rubrivivax gelatinosus
+NC_008148,Rubrobacter xylanophilus
+NC_003911,Ruegeria pomeroyi
+NC_008044,Ruegeria sp. TM1040
+NC_017304,Ruminiclostridium thermocellum
+NC_009012,Ruminiclostridium thermocellum
+NC_014833,Ruminococcus albus
+NC_021039,Ruminococcus champanellensis
+NC_015703,Runella slithyformis
+NC_013159,Saccharomonospora viridis
+NC_007912,Saccharophagus degradans
+NC_009142,Saccharopolyspora erythraea
+NC_019673,Saccharothrix espanaensis
+NC_014032,Salinibacter ruber
+NC_007677,Salinibacter ruber
+NC_009953,Salinispora arenicola
+NC_009380,Salinispora tropica
+NC_015761,Salmonella bongori
+NC_021870,Salmonella bongori
+NC_010067,Salmonella enterica
+NC_010102,Salmonella enterica
+NC_011080,Salmonella enterica
+NC_011083,Salmonella enterica
+NC_011094,Salmonella enterica
+NC_011149,Salmonella enterica
+NC_011147,Salmonella enterica
+NC_011205,Salmonella enterica
+NC_011274,Salmonella enterica
+NC_011294,Salmonella enterica
+NC_012125,Salmonella enterica
+NC_016856,Salmonella enterica
+NC_016810,Salmonella enterica
+NC_016831,Salmonella enterica
+NC_016860,Salmonella enterica
+NC_016863,Salmonella enterica
+NC_016857,Salmonella enterica
+NC_017046,Salmonella enterica
+NC_017623,Salmonella enterica
+NC_020307,Salmonella enterica
+NC_021151,Salmonella enterica
+NC_021176,Salmonella enterica
+NC_021902,Salmonella enterica
+NC_021984,Salmonella enterica
+NC_006511,Salmonella enterica
+NC_016832,Salmonella enterica
+NC_022569,Salmonella enterica
+NC_021810,Salmonella enterica
+NC_021820,Salmonella enterica
+NC_021844,Salmonella enterica
+NC_021812,Salmonella enterica
+NC_021814,Salmonella enterica
+NC_021818,Salmonella enterica
+NC_022544,Salmonella enterica
+NC_022525,Salmonella enterica
+NC_022991,Salmonella enterica
+NC_022221,Salmonella enterica
+NC_003197,Salmonella enterica
+NC_003198,Salmonella enterica
+NC_004631,Salmonella enterica
+NC_006905,Salmonella enterica
+NC_013521,Sanguibacter keddieii
+NC_016940,Saprospira grandis
+NC_013517,Sebaldella termitidis
+NC_014168,Segniliparus rotundus
+NC_017068,Selenomonas ruminantium
+NC_015437,Selenomonas sputigena
+NC_021741,Serratia liquefaciens
+NC_020211,Serratia marcescens
+NC_020064,Serratia marcescens
+NC_015567,Serratia plymuthica
+NC_021591,Serratia plymuthica
+NC_021659,Serratia plymuthica
+NC_009832,Serratia proteamaculans
+NC_015566,Serratia sp. AS12
+NC_017573,Serratia sp. AS13
+NC_016632,Serratia symbiotica
+NC_008700,Shewanella amazonensis
+NC_009665,Shewanella baltica
+NC_009997,Shewanella baltica
+NC_011663,Shewanella baltica
+NC_017571,Shewanella baltica
+NC_017579,Shewanella baltica
+NC_009052,Shewanella baltica
+NC_016901,Shewanella baltica
+NC_007954,Shewanella denitrificans
+NC_008345,Shewanella frigidimarina
+NC_010334,Shewanella halifaxensis
+NC_009092,Shewanella loihica
+NC_004347,Shewanella oneidensis
+NC_009901,Shewanella pealeana
+NC_011566,Shewanella piezotolerans
+NC_009438,Shewanella putrefaciens
+NC_017566,Shewanella putrefaciens
+NC_009831,Shewanella sediminis
+NC_008577,Shewanella sp. ANA-3
+NC_008321,Shewanella sp. MR-4
+NC_008322,Shewanella sp. MR-7
+NC_008750,Shewanella sp. W3-18-1
+NC_014012,Shewanella violacea
+NC_010506,Shewanella woodyi
+NC_010658,Shigella boydii
+NC_007613,Shigella boydii
+NC_007606,Shigella dysenteriae
+NC_008258,Shigella flexneri
+NC_017328,Shigella flexneri
+NC_004741,Shigella flexneri
+NC_004337,Shigella flexneri
+NC_016822,Shigella sonnei
+NC_007384,Shigella sonnei
+NC_017910,Shimwellia blattae
+NC_013959,Sideroxydans lithotrophicus
+NC_018868,Simiduia agarivorans
+NC_015713,Simkania negevensis
+NC_019892,Singulisphaera acidiphila
+NC_012587,Sinorhizobium fredii
+NC_016812,Sinorhizobium fredii
+NC_018000,Sinorhizobium fredii
+NC_009636,Sinorhizobium medicae
+NC_017322,Sinorhizobium meliloti
+NC_017325,Sinorhizobium meliloti
+NC_018700,Sinorhizobium meliloti
+NC_019845,Sinorhizobium meliloti
+NC_020528,Sinorhizobium meliloti
+NC_003047,Sinorhizobium meliloti
+NC_015590,Sinorhizobium meliloti
+NC_015591,Sinorhizobium meliloti
+NC_015596,Sinorhizobium meliloti
+NC_013165,Slackia heliotrinireducens
+NC_007712,Sodalis glossinidius
+NC_018065,Solibacillus silvestris
+NC_017770,Solitalea canadensis
+NC_010162,Sorangium cellulosum
+NC_021658,Sorangium cellulosum
+NC_013523,Sphaerobacter thermophilus
+NC_013524,Sphaerobacter thermophilus
+NC_015436,Sphaerochaeta coccoides
+NC_015152,Sphaerochaeta globosa
+NC_016633,Sphaerochaeta pleomorpha
+NC_015277,Sphingobacterium sp. 21
+NC_015593,Sphingobium chlorophenolicum
+NC_015594,Sphingobium chlorophenolicum
+NC_014006,Sphingobium japonicum
+NC_014013,Sphingobium japonicum
+NC_015976,Sphingobium sp. SYK-6
+NC_020561,Sphingomonas sp. MM-1
+NC_009511,Sphingomonas wittichii
+NC_008048,Sphingopyxis alaskensis
+NC_021291,Spiribacter salinus
+NC_022664,Spiribacter sp. UAH-SP71
+NC_017098,Spirochaeta africana
+NC_014364,Spirochaeta smaragdinae
+NC_023035,Spirochaeta sp. L21-RPul-D2
+NC_017583,Spirochaeta thermophila
+NC_014484,Spirochaeta thermophila
+NC_022998,Spiroplasma apis
+NC_021280,Spiroplasma chrysopicola
+NC_021833,Spiroplasma diminutum
+NC_021284,Spiroplasma syrphidicola
+NC_021846,Spiroplasma taiwanense
+NC_013730,Spirosoma linguale
+NC_013947,Stackebrandtia nassauensis
+NC_019748,Stanieria cyanosphaera
+NC_007793,Staphylococcus aureus
+NC_009487,Staphylococcus aureus
+NC_009782,Staphylococcus aureus
+NC_013450,Staphylococcus aureus
+NC_017343,Staphylococcus aureus
+NC_017342,Staphylococcus aureus
+NC_017347,Staphylococcus aureus
+NC_017351,Staphylococcus aureus
+NC_017763,Staphylococcus aureus
+NC_017333,Staphylococcus aureus
+NC_017349,Staphylococcus aureus
+NC_020529,Staphylococcus aureus
+NC_020532,Staphylococcus aureus
+NC_020533,Staphylococcus aureus
+NC_020536,Staphylococcus aureus
+NC_020537,Staphylococcus aureus
+NC_020564,Staphylococcus aureus
+NC_020566,Staphylococcus aureus
+NC_020568,Staphylococcus aureus
+NC_021059,Staphylococcus aureus
+NC_009632,Staphylococcus aureus
+NC_009641,Staphylococcus aureus
+NC_016912,Staphylococcus aureus
+NC_016928,Staphylococcus aureus
+NC_021554,Staphylococcus aureus
+NC_022113,Staphylococcus aureus
+NC_003923,Staphylococcus aureus
+NC_002745,Staphylococcus aureus
+NC_002758,Staphylococcus aureus
+NC_010079,Staphylococcus aureus
+NC_017341,Staphylococcus aureus
+NC_017673,Staphylococcus aureus
+NC_017331,Staphylococcus aureus
+NC_017338,Staphylococcus aureus
+NC_016941,Staphylococcus aureus
+NC_017337,Staphylococcus aureus
+NC_018608,Staphylococcus aureus
+NC_021670,Staphylococcus aureus
+NC_017340,Staphylococcus aureus
+NC_022222,Staphylococcus aureus
+NC_022226,Staphylococcus aureus
+NC_022442,Staphylococcus aureus
+NC_022443,Staphylococcus aureus
+NC_022604,Staphylococcus aureus
+NC_007795,Staphylococcus aureus
+NC_002952,Staphylococcus aureus
+NC_002953,Staphylococcus aureus
+NC_002951,Staphylococcus aureus
+NC_007622,Staphylococcus aureus
+NC_012121,Staphylococcus carnosus
+NC_002976,Staphylococcus epidermidis
+NC_004461,Staphylococcus epidermidis
+NC_007168,Staphylococcus haemolyticus
+NC_017353,Staphylococcus lugdunensis
+NC_013893,Staphylococcus lugdunensis
+NC_022737,Staphylococcus pasteuri
+NC_017568,Staphylococcus pseudintermedius
+NC_014925,Staphylococcus pseudintermedius
+NC_007350,Staphylococcus saprophyticus
+NC_020164,Staphylococcus warneri
+NC_014217,Starkeya novella
+NC_010943,Stenotrophomonas maltophilia
+NC_011071,Stenotrophomonas maltophilia
+NC_015947,Stenotrophomonas maltophilia
+NC_017671,Stenotrophomonas maltophilia
+NC_014623,Stigmatella aurantiaca
+NC_013515,Streptobacillus moniliformis
+NC_018646,Streptococcus agalactiae
+NC_019048,Streptococcus agalactiae
+NC_021195,Streptococcus agalactiae
+NC_004368,Streptococcus agalactiae
+NC_021485,Streptococcus agalactiae
+NC_021486,Streptococcus agalactiae
+NC_021507,Streptococcus agalactiae
+NC_004116,Streptococcus agalactiae
+NC_007432,Streptococcus agalactiae
+NC_022239,Streptococcus anginosus
+NC_022244,Streptococcus anginosus
+NC_022236,Streptococcus constellatus
+NC_022238,Streptococcus constellatus
+NC_022245,Streptococcus constellatus
+NC_012891,Streptococcus dysgalactiae
+NC_018712,Streptococcus dysgalactiae
+NC_017567,Streptococcus dysgalactiae
+NC_019042,Streptococcus dysgalactiae
+NC_022532,Streptococcus dysgalactiae
+NC_012470,Streptococcus equi
+NC_012471,Streptococcus equi
+NC_017582,Streptococcus equi
+NC_011134,Streptococcus equi
+NC_013798,Streptococcus gallolyticus
+NC_017576,Streptococcus gallolyticus
+NC_015215,Streptococcus gallolyticus
+NC_009785,Streptococcus gordonii
+NC_016826,Streptococcus infantarius
+NC_021314,Streptococcus iniae
+NC_018073,Streptococcus intermedius
+NC_022237,Streptococcus intermedius
+NC_022246,Streptococcus intermedius
+NC_021900,Streptococcus lutetiensis
+NC_016749,Streptococcus macedonicus
+NC_013853,Streptococcus mitis
+NC_017768,Streptococcus mutans
+NC_018089,Streptococcus mutans
+NC_004350,Streptococcus mutans
+NC_013928,Streptococcus mutans
+NC_021175,Streptococcus oligofermentans
+NC_015291,Streptococcus oralis
+NC_017905,Streptococcus parasanguinis
+NC_015678,Streptococcus parasanguinis
+NC_015558,Streptococcus parauberis
+NC_015600,Streptococcus pasteurianus
+NC_008533,Streptococcus pneumoniae
+NC_010380,Streptococcus pneumoniae
+NC_010582,Streptococcus pneumoniae
+NC_011072,Streptococcus pneumoniae
+NC_011900,Streptococcus pneumoniae
+NC_012466,Streptococcus pneumoniae
+NC_012467,Streptococcus pneumoniae
+NC_012468,Streptococcus pneumoniae
+NC_012469,Streptococcus pneumoniae
+NC_014251,Streptococcus pneumoniae
+NC_017591,Streptococcus pneumoniae
+NC_017592,Streptococcus pneumoniae
+NC_017593,Streptococcus pneumoniae
+NC_018630,Streptococcus pneumoniae
+NC_017769,Streptococcus pneumoniae
+NC_014494,Streptococcus pneumoniae
+NC_014498,Streptococcus pneumoniae
+NC_018594,Streptococcus pneumoniae
+NC_003028,Streptococcus pneumoniae
+NC_003098,Streptococcus pneumoniae
+NC_015875,Streptococcus pseudopneumoniae
+NC_009332,Streptococcus pyogenes
+NC_011375,Streptococcus pyogenes
+NC_018936,Streptococcus pyogenes
+NC_002737,Streptococcus pyogenes
+NC_017040,Streptococcus pyogenes
+NC_017053,Streptococcus pyogenes
+NC_007296,Streptococcus pyogenes
+NC_007297,Streptococcus pyogenes
+NC_008021,Streptococcus pyogenes
+NC_008023,Streptococcus pyogenes
+NC_008024,Streptococcus pyogenes
+NC_008022,Streptococcus pyogenes
+NC_020540,Streptococcus pyogenes
+NC_021807,Streptococcus pyogenes
+NC_017596,Streptococcus pyogenes
+NC_003485,Streptococcus pyogenes
+NC_004070,Streptococcus pyogenes
+NC_004606,Streptococcus pyogenes
+NC_006086,Streptococcus pyogenes
+NC_015760,Streptococcus salivarius
+NC_017594,Streptococcus salivarius
+NC_017595,Streptococcus salivarius
+NC_009009,Streptococcus sanguinis
+NC_022584,Streptococcus sp. I-G2
+NC_022582,Streptococcus sp. I-P16
+NC_009442,Streptococcus suis
+NC_012924,Streptococcus suis
+NC_012925,Streptococcus suis
+NC_017617,Streptococcus suis
+NC_017618,Streptococcus suis
+NC_017619,Streptococcus suis
+NC_017620,Streptococcus suis
+NC_017621,Streptococcus suis
+NC_017622,Streptococcus suis
+NC_017950,Streptococcus suis
+NC_018526,Streptococcus suis
+NC_020526,Streptococcus suis
+NC_021213,Streptococcus suis
+NC_009443,Streptococcus suis
+NC_015433,Streptococcus suis
+NC_022516,Streptococcus suis
+NC_022665,Streptococcus suis
+NC_012926,Streptococcus suis
+NC_017563,Streptococcus thermophilus
+NC_017581,Streptococcus thermophilus
+NC_017927,Streptococcus thermophilus
+NC_008532,Streptococcus thermophilus
+NC_006449,Streptococcus thermophilus
+NC_006448,Streptococcus thermophilus
+NC_012004,Streptococcus uberis
+NC_020990,Streptomyces albus
+NC_003155,Streptomyces avermitilis
+NC_016582,Streptomyces bingchenggensis
+NC_017586,Streptomyces cattleya
+NC_016111,Streptomyces cattleya
+NC_003888,Streptomyces coelicolor
+NC_021985,Streptomyces collinus
+NC_020504,Streptomyces davawensis
+NC_021177,Streptomyces fulvissimus
+NC_010572,Streptomyces griseus
+NC_017765,Streptomyces hygroscopicus
+NC_020895,Streptomyces hygroscopicus
+NC_016114,Streptomyces pratensis
+NC_013929,Streptomyces scabiei
+NC_021055,Streptomyces sp. PAMC26508
+NC_015953,Streptomyces sp. SirexAA-E
+NC_018750,Streptomyces venezuelae
+NC_015957,Streptomyces violaceusniger
+NC_013595,Streptosporangium roseum
+NC_015757,Sulfobacillus acidophilus
+NC_016884,Sulfobacillus acidophilus
+NC_022357,Sulfuricella denitrificans
+NC_014762,Sulfuricurvum kujiense
+NC_012438,Sulfurihydrogenibium azorense
+NC_010730,Sulfurihydrogenibium sp. YO3AOP1
+NC_014506,Sulfurimonas autotrophica
+NC_007575,Sulfurimonas denitrificans
+NC_018002,Sulfurospirillum barnesii
+NC_013512,Sulfurospirillum deleyianum
+NC_009663,Sulfurovum sp. NBC37-1
+NC_006177,Symbiobacterium thermophilum
+NC_006576,Synechococcus elongatus
+NC_007604,Synechococcus elongatus
+NC_008319,Synechococcus sp. CC9311
+NC_007516,Synechococcus sp. CC9605
+NC_007513,Synechococcus sp. CC9902
+NC_007776,Synechococcus sp. JA-2-3B'a(2-13)
+NC_007775,Synechococcus sp. JA-3-3Ab
+NC_019680,Synechococcus sp. PCC 6312
+NC_010475,Synechococcus sp. PCC 7002
+NC_019702,Synechococcus sp. PCC 7502
+NC_009482,Synechococcus sp. RCC307
+NC_009481,Synechococcus sp. WH 7803
+NC_005070,Synechococcus sp. WH 8102
+NC_017277,Synechocystis sp. PCC 6803
+NC_020286,Synechocystis sp. PCC 6803
+NC_017038,Synechocystis sp. PCC 6803
+NC_017039,Synechocystis sp. PCC 6803
+NC_017052,Synechocystis sp. PCC 6803
+NC_000911,Synechocystis sp. PCC 6803
+NC_008554,Syntrophobacter fumaroxidans
+NC_015172,Syntrophobotulus glycolicus
+NC_008346,Syntrophomonas wolfei
+NC_014220,Syntrophothermus lipocalidus
+NC_007759,Syntrophus aciditrophicus
+NC_016610,Tannerella forsythia
+NC_016043,Taylorella asinigenitalis
+NC_014914,Taylorella equigenitalis
+NC_018108,Taylorella equigenitalis
+NC_015519,Tepidanaerobacter acetatoxydans
+NC_019954,Tepidanaerobacter acetatoxydans
+NC_012997,Teredinibacter turnerae
+NC_018014,Terriglobus roseus
+NC_014963,Terriglobus saanensis
+NC_016052,Tetragenococcus halophilus
+NC_020888,Thalassolituus oleivorans
+NC_011662,Thauera sp. MZ1T
+NC_018870,Thermacetogenium phaeum
+NC_014831,Thermaerobacter marianensis
+NC_013522,Thermanaerovibrio acidaminovorans
+NC_014152,Thermincola potens
+NC_014964,Thermoanaerobacter brockii
+NC_013921,Thermoanaerobacter italicus
+NC_014209,Thermoanaerobacter mathranii
+NC_010321,Thermoanaerobacter pseudethanolicus
+NC_014538,Thermoanaerobacter sp. X513
+NC_010320,Thermoanaerobacter sp. X514
+NC_015958,Thermoanaerobacter wiegelii
+NC_017992,Thermoanaerobacterium saccharolyticum
+NC_019970,Thermoanaerobacterium thermosaccharolyticum
+NC_014410,Thermoanaerobacterium thermosaccharolyticum
+NC_015555,Thermoanaerobacterium xylanolyticum
+NC_019897,Thermobacillus composti
+NC_013526,Thermobaculum terrenum
+NC_013525,Thermobaculum terrenum
+NC_007333,Thermobifida fusca
+NC_014165,Thermobispora bispora
+NC_013894,Thermocrinis albus
+NC_015681,Thermodesulfatator indicus
+NC_015682,Thermodesulfobacterium geofontis
+NC_015499,Thermodesulfobium narugense
+NC_011296,Thermodesulfovibrio yellowstonii
+NC_011959,Thermomicrobium roseum
+NC_013510,Thermomonospora curvata
+NC_014377,Thermosediminibacter oceani
+NC_011653,Thermosipho africanus
+NC_009616,Thermosipho melanesiensis
+NC_004113,Thermosynechococcus elongatus
+NC_022792,Thermotoga elfii
+NC_022795,Thermotoga hypogea
+NC_009828,Thermotoga lettingae
+NC_021214,Thermotoga maritima
+NC_023151,Thermotoga maritima
+NC_000853,Thermotoga maritima
+NC_013642,Thermotoga naphthophila
+NC_011978,Thermotoga neapolitana
+NC_009486,Thermotoga petrophila
+NC_010483,Thermotoga sp. RQ2
+NC_015707,Thermotoga thermarum
+NC_014926,Thermovibrio ammonificans
+NC_016148,Thermovirga lienii
+NC_019386,Thermus oshimai
+NC_014974,Thermus scotoductus
+NC_017278,Thermus sp. CCB_US3_UF1
+NC_017272,Thermus thermophilus
+NC_017587,Thermus thermophilus
+NC_005835,Thermus thermophilus
+NC_006461,Thermus thermophilus
+NC_015581,Thioalkalimicrobium cyclicum
+NC_019902,Thioalkalivibrio nitratireducens
+NC_013889,Thioalkalivibrio sp. K90mix
+NC_011901,Thioalkalivibrio sulfidiphilus
+NC_007404,Thiobacillus denitrificans
+NC_018012,Thiocystis violascens
+NC_019940,Thioflavicoccus mobilis
+NC_007520,Thiomicrospira crunogena
+NC_014145,Thiomonas arsenitoxydans
+NC_014153,Thiomonas intermedia
+NC_017956,Tistrella mobilis
+NC_012691,Tolumonas auensis
+NC_015577,Treponema azotonutricium
+NC_015500,Treponema brennaborense
+NC_015732,Treponema caldaria
+NC_002967,Treponema denticola
+NC_016844,Treponema pallidum
+NC_000919,Treponema pallidum
+NC_010741,Treponema pallidum
+NC_021508,Treponema pallidum
+NC_016842,Treponema pallidum
+NC_017268,Treponema pallidum
+NC_018722,Treponema pallidum
+NC_021179,Treponema pallidum
+NC_016843,Treponema pallidum
+NC_016848,Treponema pallidum
+NC_021490,Treponema pallidum
+NC_015714,Treponema paraluiscuniculi
+NC_022097,Treponema pedis
+NC_015578,Treponema primitia
+NC_015385,Treponema succinifaciens
+NC_008312,Trichodesmium erythraeum
+NC_014248,Trichormus azollae
+NC_004572,Tropheryma whipplei
+NC_004551,Tropheryma whipplei
+NC_014221,Truepera radiovictrix
+NC_014158,Tsukamurella paurometabola
+NC_018020,Turneriella parva
+NC_010503,Ureaplasma parvum
+NC_002162,Ureaplasma parvum
+NC_011374,Ureaplasma urealyticum
+NC_012791,Variovorax paradoxus
+NC_012792,Variovorax paradoxus
+NC_014931,Variovorax paradoxus
+NC_022234,Variovorax paradoxus
+NC_022247,Variovorax paradoxus
+NC_013520,Veillonella parvula
+NC_008786,Verminephrobacter eiseniae
+NC_015434,Verrucosispora maris
+NC_022349,Vibrio alginolyticus
+NC_022359,Vibrio alginolyticus
+NC_015633,Vibrio anguillarum
+NC_015637,Vibrio anguillarum
+NC_022223,Vibrio anguillarum
+NC_022224,Vibrio anguillarum
+NC_009783,Vibrio campbellii
+NC_009784,Vibrio campbellii
+NC_022269,Vibrio campbellii
+NC_022270,Vibrio campbellii
+NC_012578,Vibrio cholerae
+NC_012582,Vibrio cholerae
+NC_012583,Vibrio cholerae
+NC_012580,Vibrio cholerae
+NC_012667,Vibrio cholerae
+NC_012668,Vibrio cholerae
+NC_016446,Vibrio cholerae
+NC_016945,Vibrio cholerae
+NC_017269,Vibrio cholerae
+NC_017270,Vibrio cholerae
+NC_016445,Vibrio cholerae
+NC_016944,Vibrio cholerae
+NC_009457,Vibrio cholerae
+NC_009456,Vibrio cholerae
+NC_002505,Vibrio cholerae
+NC_002506,Vibrio cholerae
+NC_016602,Vibrio furnissii
+NC_016628,Vibrio furnissii
+NC_022528,Vibrio nigripulchritudo
+NC_022543,Vibrio nigripulchritudo
+NC_019955,Vibrio parahaemolyticus
+NC_019971,Vibrio parahaemolyticus
+NC_004603,Vibrio parahaemolyticus
+NC_021822,Vibrio parahaemolyticus
+NC_021847,Vibrio parahaemolyticus
+NC_021821,Vibrio parahaemolyticus
+NC_021848,Vibrio parahaemolyticus
+NC_004605,Vibrio parahaemolyticus
+NC_016614,Vibrio sp. EJY3
+NC_016613,Vibrio sp. EJY3
+NC_013456,Vibrio sp. Ex25
+NC_013457,Vibrio sp. Ex25
+NC_011744,Vibrio tasmaniensis
+NC_011753,Vibrio tasmaniensis
+NC_004459,Vibrio vulnificus
+NC_004460,Vibrio vulnificus
+NC_014965,Vibrio vulnificus
+NC_014966,Vibrio vulnificus
+NC_005140,Vibrio vulnificus
+NC_005139,Vibrio vulnificus
+NC_014225,Waddlia chondrophila
+NC_015144,Weeksella virosa
+NC_015759,Weissella koreensis
+NC_016893,Wigglesworthia glossinidia
+NC_004344,Wigglesworthia glossinidia
+NC_006833,Wolbachia endosymbiont of Brugia malayi
+NC_010981,Wolbachia endosymbiont of Culex quinquefasciatus
+NC_002978,Wolbachia endosymbiont of Drosophila melanogaster
+NC_021084,Wolbachia endosymbiont of Drosophila simulans
+NC_021089,Wolbachia endosymbiont of Drosophila simulans
+NC_018267,Wolbachia endosymbiont of Onchocerca ochengi
+NC_012416,Wolbachia sp. wRi
+NC_005090,Wolinella succinogenes
+NC_009720,Xanthobacter autotrophicus
+NC_013722,Xanthomonas albilineans
+NC_016010,Xanthomonas alfalfae
+NC_020800,Xanthomonas axonopodis
+NC_010688,Xanthomonas campestris
+NC_017271,Xanthomonas campestris
+NC_003902,Xanthomonas campestris
+NC_007086,Xanthomonas campestris
+NC_020815,Xanthomonas citri
+NC_003919,Xanthomonas citri
+NC_007508,Xanthomonas euvesicatoria
+NC_022541,Xanthomonas fuscans
+NC_007705,Xanthomonas oryzae
+NC_010717,Xanthomonas oryzae
+NC_017267,Xanthomonas oryzae
+NC_006834,Xanthomonas oryzae
+NC_013892,Xenorhabdus bovienii
+NC_014228,Xenorhabdus nematophila
+NC_013530,Xylanimonas cellulosilytica
+NC_010513,Xylella fastidiosa
+NC_010577,Xylella fastidiosa
+NC_017562,Xylella fastidiosa
+NC_002488,Xylella fastidiosa
+NC_004556,Xylella fastidiosa
+NC_015224,Yersinia enterocolitica
+NC_017564,Yersinia enterocolitica
+NC_008800,Yersinia enterocolitica
+NC_008150,Yersinia pestis
+NC_008149,Yersinia pestis
+NC_009381,Yersinia pestis
+NC_010159,Yersinia pestis
+NC_014029,Yersinia pestis
+NC_017154,Yersinia pestis
+NC_017160,Yersinia pestis
+NC_017168,Yersinia pestis
+NC_005810,Yersinia pestis
+NC_017265,Yersinia pestis
+NC_004088,Yersinia pestis
+NC_003143,Yersinia pestis
+NC_010465,Yersinia pseudotuberculosis
+NC_010634,Yersinia pseudotuberculosis
+NC_006155,Yersinia pseudotuberculosis
+NC_009708,Yersinia pseudotuberculosis
+NC_015844,Zobellia galactanivorans
+NC_014041,Zunongwangia profunda
+NC_013355,Zymomonas mobilis
+NC_006526,Zymomonas mobilis
+NC_015709,Zymomonas mobilis
+NC_018145,Zymomonas mobilis
+NC_017262,Zymomonas mobilis
+NC_022900,Zymomonas mobilis
+NC_014219,[Bacillus] selenitireducens
+NC_015671,[Cellvibrio] gilvus
+NC_011898,[Clostridium] cellulolyticum
+NC_016627,[Clostridium] clariflavum
+NC_014376,[Clostridium] saccharolyticum
+NC_021047,[Clostridium] saccharolyticum
+NC_020134,[Clostridium] stercorarium
+NC_020887,[Clostridium] stercorarium
+NC_014614,[Clostridium] sticklandii
+NC_012778,[Eubacterium] eligens
+NC_006300,[Mannheimia] succiniciproducens
+NC_018643,alpha proteobacterium HIMB5
+NC_018644,alpha proteobacterium HIMB59
+NC_020417,beta proteobacterium CB
+NC_021035,butyrate-producing bacterium SS3/4
+NC_021016,butyrate-producing bacterium SSC/2
+NC_023002,candidate division SR1 bacterium RAAC1_SR1_1
+NC_023001,candidate division WWE3 bacterium RAAC2_WWE3_1
+NC_014366,gamma proteobacterium HdN1
+NC_018419,secondary endosymbiont of Ctenarytaina eucalypti
+NC_018420,secondary endosymbiont of Heteropsylla cubana
+NC_020505,uncultured Sulfuricurvum sp. RIFRC-1
+NC_020419,uncultured Termite group 1 bacterium
