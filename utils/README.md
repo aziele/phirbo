@@ -44,35 +44,30 @@ To create ranked lists, follow the next five steps. You can simply copy and past
 
 #### 1. Create BLAST database of prokaryotic genomes
 
-The following command will create a BLAST database from all host FASTA files in `example/host` directory.
+The following command will create a BLAST database from all host FASTA files in `example/host` directory. The BLAST database will be created in `out/db/` directory.
 
 ```bash
 python makeblastdb.py --in example/host/ --out out/db/
 ```
 
-The BLAST database will be created in `out/db/` directory.
-
 
 #### 2. BLAST viruses against the database
 
-The following command will run BLAST on every virus FASTA file in `example/virus` directory.
+The following command will run BLAST on every virus FASTA file in `example/virus` directory. BLAST results will be saved in `out/virus_blast` directory. By default, the script will run BLAST on all CPU threads you have available. However, you can specify the number of threads using `--num_threads`.
 
 ```bash
 python blastn.py --task blastn --in example/virus/ --db out/db/ --out out/virus_blast
 ```
 
-BLAST results will be saved in `out/virus_blast` directory. By default, the script will run BLAST on all CPU threads you have available. However, you can specify the number of threads using `--num_threads`.
-
 
 #### 3. BLAST hosts against the database
 
-The following command will run BLAST on every host FASTA file in `example/host` directory.
+The following command will run BLAST on every host FASTA file in `example/host` directory. BLAST results will be saved in `out/host_blast` directory. To speed up the searches you can use `--task dc-megablast` or `--task megablast`.
 
 ```bash
 python blastn.py --task megablast --in example/host/ --db out/db/ --out out/host_blast --num_threads 4
 ```
 
-BLAST results will be saved in `out/host_blast` directory. To speed up the searches you can use `--task dc-megablast` or `--task megablast`.
 
 
 #### 4. Create ranked lists from BLAST results
