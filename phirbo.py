@@ -39,6 +39,11 @@ def get_arguments():
     return args
 
 
+def rbo_wrap(hi, vi, p=0.75):
+    hname = hnames[hi]
+    vname = vnames[vi]
+    return hi, vi, rbo(hd[hname], vd[vname], p=p)
+
 def rbo(l1: List[Set[Union[str, int]]],
         l2: List[Set[Union[str, int]]],
         p: float = 0.75) -> float:
@@ -66,11 +71,6 @@ def rbo(l1: List[Set[Union[str, int]]],
     sl, ll = sorted([(len(l1), l1), (len(l2), l2)])
     s, S = sl
     l, L = ll
-
-    # Return rbo = 0 if two ranked lists are disjoint.
-    ss = {item for tie in S for item in tie}
-    if ss.isdisjoint(item for tie in L for item in tie):
-        return 0
 
     # Items from short/long list (`ss`/`ls`) till a given depth (ranking).
     ss = set()
@@ -174,14 +174,28 @@ if __name__ == '__main__':
     vnames = sorted(vd)
     hnames = sorted(hd)
 
+    # Filter down the number of pairs
+    vds = []
+    for i, vname in enumerate(vnames):
+        vs = set()
+        for rset in vd[vname]:
+            for item in rset:
+                vs.add(item)
+        vds.append(vs)
+
+    q = []
+    for hi, hname in enumerate(hnames):
+        hs = set([item for rset in hd[hname] for item in rset])
+        for vi, vs in enumerate(vds):
+            if vs.intersection(hs):
+                q.append((hi, vi, args.p))
+
     # Calculate RBO scores between every phage and every host.
     data = np.zeros((len(hnames), len(vnames)))
-    for vi, vname in enumerate(vnames):
-        q = [(vd[vname], hd[hname], args.p) for hname in hnames]
-        with multiprocessing.Pool(args.num_threads) as pool:
-            res = pool.starmap(rbo, q)
-            for hi, score in enumerate(res):
-                data[hi, vi] = score
+    with multiprocessing.Pool(args.num_threads) as pool:
+        res = pool.starmap(rbo_wrap, q)
+        for hi, vi, score in res:
+            data[hi, vi] = score
 
     # Save matrix to file.
     df = pd.DataFrame(data=data, index=hnames, columns=vnames)
