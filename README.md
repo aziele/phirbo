@@ -2,7 +2,10 @@
 
 A tool to predict prokaryotic hosts for phage (meta)genomic sequences. The tool uses information on sequence similarity between phage and bacteria genomes as well as sequence relatedness among bacteria.
 
-### Citation
+### Update
+See our latest tool for phage-host prediction: PHIST (https://github.com/refresh-bio/PHIST).
+
+## Citation
 
 Zielezinski A, Barylski J, Karlowski WM. "Taxonomy-aware, sequence similarity ranking reliably predicts phage–host relationships" BMC Biology, Volume 19, Issue 1, 2021, [10.1186/s12915-021-01146-6](https://doi.org/10.1186/s12915-021-01146-6).
 
